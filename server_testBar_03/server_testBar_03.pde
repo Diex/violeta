@@ -20,13 +20,12 @@ void setup()
   size(386, 64);
 
  
-  int panel = 32;
-
+  
   opc = new ESPOPC(this);  
-  opc.addDevice("dsp_01.local").ledGrid(0, 32, 16, 8*2, height/2, 2, 2, radians(-90), true, false);
-  //opc.addDevice("192.168.0.7" ).ledGrid(0, 32, 16, 8*2 + panel, height/2, 2, 2, radians(-90), true, false);
-  //opc.addDevice("192.168.0.8" ).ledGrid(0, 32, 16, 8*2 + panel * 2, height/2, 2, 2, radians(-90), true, false);
-  //opc.addDevice("192.168.0.11").ledGrid(0, 32, 16, 8*2 + panel * 3, height/2, 2, 2, radians(-90), true, false);
+  opc.addDevice("dsp_01.local").ledGrid(0, 0, 32, 64);
+  opc.addDevice("dsp_02.local").ledGrid(0, 0, 32, 64);
+  opc.addDevice("dsp_03.local").ledGrid(0, 0, 32, 64);
+  opc.addDevice("dsp_04.local").ledGrid(0, 0, 32, 64);
 
 
   movie = new Movie(this, "test_01-MPEG-4.mp4");

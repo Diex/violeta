@@ -92,6 +92,23 @@ class OpcDevice {
     this.port = port;
   }
 
+  
+  int panelw = 16;
+  int panelh = 32;
+  
+  void ledGrid(float x, float y, float w, float h){
+  
+    // 0, 0, 32, 64
+    
+    float hgap = w/panelw;  
+    float vgap = h/panelh;
+    
+    ledGrid(0, panelh, panelw,
+                         (w/2) + x * w, 
+                         (h/2) + y * h, 
+                         hgap, vgap,
+                         radians(-90), true, false);
+  }
 
   // Set the location of several LEDs arranged in a grid. The first strip is
   // at 'angle', measured in radians clockwise from +X.
