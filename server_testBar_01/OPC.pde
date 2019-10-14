@@ -351,8 +351,9 @@ public class OPC implements Runnable
     // Important for OPC arrays; faster startup, client continues
     // to run smoothly when mobile servers go in and out of range.
     for (;; ) {
-
+      println("run...");
       if (output == null) { // No OPC connection?
+      println("trying to coneect"+millis());
         try {              // Make one!
           socket = new Socket(host, port);
           socket.setTcpNoDelay(true);

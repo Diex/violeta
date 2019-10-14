@@ -1,8 +1,8 @@
 //https://github.com/scanlime/fadecandy/blob/master/doc/processing_opc_client.md
-OPC opc;
-OPC opc2;
-OPC opc3;
-OPC opc4;
+ESPOPC opc;
+//OPC opc2;
+//OPC opc3;
+//OPC opc4;
 
 PImage dot;
 import processing.video.*;
@@ -19,24 +19,16 @@ void setup()
   
   int panel = 32;
   
-  opc = new OPC(this, "192.168.0.10", 7890);  
-  opc.ledGrid(0, 32, 16, 8*2,               height/2, 2, 2, radians(-90), true, false);
- 
-  opc2 = new OPC(this, "192.168.0.7", 7890);  
-  opc2.ledGrid(0, 32, 16, 8*2 + panel, height/2, 2, 2, radians(-90), true, false);
-  
-  
-  opc3 = new OPC(this, "192.168.0.8", 7890);  
-  opc3.ledGrid(0, 32, 16, 8*2 + panel * 2, height/2, 2, 2, radians(-90), true, false);
-  
-  opc4 = new OPC(this, "192.168.0.11", 7890);  
-  opc4.ledGrid(0, 32, 16, 8*2 + panel * 3, height/2, 2, 2, radians(-90), true, false);
-
+  opc = new ESPOPC(this);  
+  opc.addDevice("192.168.0.14").ledGrid(0, 32, 16, 8*2,             height/2, 2, 2, radians(-90), true, false);
+  opc.addDevice("192.168.0.7" ).ledGrid(0, 32, 16, 8*2 + panel,     height/2, 2, 2, radians(-90), true, false);
+  opc.addDevice("192.168.0.8" ).ledGrid(0, 32, 16, 8*2 + panel * 2, height/2, 2, 2, radians(-90), true, false);
+  opc.addDevice("192.168.0.11").ledGrid(0, 32, 16, 8*2 + panel * 3, height/2, 2, 2, radians(-90), true, false);
   
    
-   movie = new Movie(this, "videoplayback.mp4");
+   movie = new Movie(this, "test_01-MPEG-4.mp4");
    movie.loop();
-   frameRate(30);
+   frameRate(20);
   
 }
 
@@ -65,19 +57,20 @@ void draw()
     ms = millis();
     counter ++;
   }
+  
   background(0);
   
   
-  //colorTestPattern();
   
   if(movie.available()) {
-    movie.read();
-    image(movie, 0,0, width, height);
+    movie.read();  
   }
   
-  fill(0, 64+127);
-  //rect(0,0,width, height);
+  image(movie, 0,0, width, height);
+  //colorTestPattern();
   
+  fill(0, 64+127);
+  rect(0,0,width, height);  
   //updatePixels();
 }
 
