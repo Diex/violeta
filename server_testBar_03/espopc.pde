@@ -38,10 +38,17 @@ public class ESPOPC implements Runnable
   void draw()
   {
     //parent.loadPixels();
+    // primero proceso los pixeles.
     for (OpcDevice d : devices) {
-      d.draw();
-      d.writePixels();
+      d.draw();      
     }
+    
+    // y luego transmito para mejorar la performance
+    for (OpcDevice d : devices) {
+      d.writePixels();      
+    }
+    
+    
   }
 
   public void run()
@@ -82,6 +89,8 @@ class OpcDevice {
 
   byte[] packetData;
   boolean enableShowLocations;
+  
+  HashMap addresses;
 
   PApplet parent;
 
@@ -90,6 +99,7 @@ class OpcDevice {
     this.enableShowLocations = true;
     this.host = host;
     this.port = port;
+    addresses = new HashMap<String,String>();
   }
 
   
@@ -226,15 +236,22 @@ class OpcDevice {
 
   void run() {  
     if (this.output == null) { // No OPC connection?
-       
       try {              // Make one!
         if(DEBUG) println("trying to connect: " + port + ":"+ host);
         //socket = new Socket(host, port);
         
         socket = new Socket();
-        socket.setSoTimeout(200);
-        socket.connect(new InetSocketAddress(InetAddress.getByName(host).getCanonicalHostName(), port), 200);
+        socket.setSoTimeout(100);
+        String ip;
+        if(addresses.containsKey(host)){
+          ip = (String) addresses.get(host);
+        }else{
+          String resolved = InetAddress.getByName(host).getCanonicalHostName();
+          addresses.put(host,resolved);
+          ip = resolved;
+        }
         
+        socket.connect(new InetSocketAddress(ip, port), 100);        
         socket.setTcpNoDelay(true);
         pending = socket.getOutputStream(); // Avoid race condition...
        if(DEBUG)  println("Connected to OPC server");

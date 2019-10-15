@@ -14,22 +14,34 @@ import java.io.IOException;
 import java.net.InetAddress;
 
 
-
+// routeradmin violeta:notabigdeal
 void setup()
 {
-  size(386, 64);
+  size(320, 128);
 
- 
-  
+
+
   opc = new ESPOPC(this);  
-  opc.addDevice("dsp_01.local").ledGrid(0, 0, 32, 64);
-  opc.addDevice("dsp_02.local").ledGrid(0, 0, 32, 64);
-  opc.addDevice("dsp_03.local").ledGrid(0, 0, 32, 64);
-  opc.addDevice("dsp_04.local").ledGrid(0, 0, 32, 64);
+  opc.addDevice("dsp_01.local").ledGrid(0, 0, 16, 32);
+  opc.addDevice("dsp_02.local").ledGrid(1, 0, 16, 32);
+  opc.addDevice("dsp_03.local").ledGrid(2, 0, 16, 32);
+  opc.addDevice("dsp_04.local").ledGrid(3, 0, 16, 32);
+  opc.addDevice("dsp_05.local").ledGrid(4, 0, 16, 32);
+  opc.addDevice("dsp_06.local").ledGrid(5, 0, 16, 32);
+  opc.addDevice("dsp_07.local").ledGrid(6, 0, 16, 32);
+  opc.addDevice("dsp_08.local").ledGrid(7, 0, 16, 32);  
+  opc.addDevice("dsp_09.local").ledGrid(8, 0, 16, 32);
+  opc.addDevice("dsp_10.local").ledGrid(9, 0, 16, 32);
+  
+  opc.addDevice("dsp_11.local").ledGrid(3, 1, 16, 32);
+  opc.addDevice("dsp_12.local").ledGrid(4, 1, 16, 32);
+  opc.addDevice("dsp_13.local").ledGrid(5, 1, 16, 32);
+  opc.addDevice("dsp_14.local").ledGrid(6, 1, 16, 32);
+  
 
-
-  movie = new Movie(this, "test_01-MPEG-4.mp4");
+  movie = new Movie(this, "china.mp4");
   movie.loop();
+  movie.volume(0.0);
   frameRate(20);
 }
 
@@ -70,10 +82,10 @@ void draw()
     movie.read();
   }
 
-  //image(movie, 0,0, width, height);
-  colorTestPattern();
+  image(movie, 0,0, width, height);
+  //colorTestPattern();
 
-  fill(0, 64+127);
+  fill(0, 127);
   rect(0, 0, width, height);  
   //updatePixels();
 }
