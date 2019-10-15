@@ -14,6 +14,12 @@ int counter = 0;
 
 
 void colorTestPattern(){
+  
+  if (millis() - ms > 100) {
+      ms = millis();
+      counter ++;
+    }
+
   int barHeight = height/8;
   int barWidth = width/8;
   noStroke();

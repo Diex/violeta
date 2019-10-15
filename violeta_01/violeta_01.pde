@@ -17,6 +17,14 @@ boolean debug = true;
 int ms = 0;
 Date date;
 
+
+final int MOVIE = 1;
+final int COLOR_BARS = 2;
+
+int mode = MOVIE;
+
+
+
 // routeradmin violeta:notabigdeal
 // opc en python
 // https://www.issackelly.com/blog/2014/07/28/snow-white-2
@@ -45,12 +53,12 @@ void setup()
   opc.addDevice("dsp_08.local").ledGrid(7, 0, 16, 32);  
   opc.addDevice("dsp_09.local").ledGrid(8, 0, 16, 32);
   opc.addDevice("dsp_10.local").ledGrid(9, 0, 16, 32);
-  
+
   opc.addDevice("dsp_11.local").ledGrid(3, 1, 16, 32);
   opc.addDevice("dsp_12.local").ledGrid(4, 1, 16, 32);
   opc.addDevice("dsp_13.local").ledGrid(5, 1, 16, 32);
   opc.addDevice("dsp_14.local").ledGrid(6, 1, 16, 32);
-  
+
 
   movie = new Movie(this, "china.mp4");
   movie.loop();
@@ -58,30 +66,45 @@ void setup()
   frameRate(25);
 }
 
+
+
+
 void draw()
 {
-  if(debug) 
-  if (millis() - ms > 100) {
-    ms = millis();
-    counter ++;
+  if (debug) {
+    println("new frame: " +millis());
   }
-
+   
   background(0);
 
-  if (movie.available()) {
-    movie.read();
+  switch(mode) {
+  case MOVIE:
+    if (movie.available()) {
+      movie.read();
+    }
+    image(movie, 0, 0, width, height);
+    break;
+
+  case COLOR_BARS:
+    colorTestPattern();  
+    break;
   }
 
-  image(movie, 0,0, width, height);
-  //colorTestPattern();
+  ndfilter(127);
 
-  fill(0, 127);
-  rect(0, 0, width, height);  
   
 }
 
+void ndfilter(int value){
+  fill(0, 127);
+  rect(0, 0, width, height);
+}
+
+
 void keyPressed() {
-  
+  if(key == ' ') {
+    mode = mode == MOVIE ? COLOR_BARS : MOVIE;
+  }
 }
 void exit() {
   ((Interceptor) System.out).close();
@@ -110,7 +133,7 @@ private class Interceptor extends PrintStream
   }
 
   public void close() {
-    
+
     errors.close(); // Finishes the file
   }
 }
