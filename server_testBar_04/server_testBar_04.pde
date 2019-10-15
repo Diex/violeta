@@ -1,18 +1,21 @@
-//https://github.com/scanlime/fadecandy/blob/master/doc/processing_opc_client.md
-ESPOPC opc;
-//OPC opc2;
-//OPC opc3;
-//OPC opc4;
-
-PImage dot;
-import processing.video.*;
-
-
-Movie movie;
-
 import java.io.IOException;
 import java.net.InetAddress;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
+import java.util.Scanner;
+import java.util.Date;
+import java.text.SimpleDateFormat;
 
+
+//https://github.com/scanlime/fadecandy/blob/master/doc/processing_opc_client.md
+ESPOPC opc;
+
+import processing.video.*;
+Movie movie;
+
+boolean debug = true;
+int ms = 0;
+Date date;
 
 // routeradmin violeta:notabigdeal
 // opc en python
@@ -25,6 +28,11 @@ import java.net.InetAddress;
 void setup()
 {
   size(320, 128);
+  date = new Date();
+  PrintStream origOut = System.out;
+  PrintStream interceptor = new Interceptor(origOut);
+  System.setOut(interceptor);
+
 
   opc = new ESPOPC(this);  
   opc.addDevice("dsp_01.local").ledGrid(0, 0, 16, 32);
@@ -44,19 +52,15 @@ void setup()
   opc.addDevice("dsp_14.local").ledGrid(6, 1, 16, 32);
   
 
-  movie = new Movie(this, "videoplayback.mp4");
+  movie = new Movie(this, "china.mp4");
   movie.loop();
   movie.volume(0.0);
   frameRate(25);
 }
 
-
-
-
-boolean DEBUG = true;
-int ms = 0;
 void draw()
 {
+  if(debug) 
   if (millis() - ms > 100) {
     ms = millis();
     counter ++;
@@ -80,7 +84,33 @@ void keyPressed() {
   
 }
 void exit() {
+  ((Interceptor) System.out).close();
   background(0);
   redraw();
   super.exit();
+}
+
+private class Interceptor extends PrintStream
+{
+  PrintWriter errors;
+
+  public Interceptor(OutputStream out)
+  {
+    super(out, true);
+    errors = createWriter("./logs/log_"+date.getTime()+".txt");
+  }
+
+  @Override
+    public void print(String s)
+  {
+    //do what ever you like        
+    errors.println(s);
+    errors.flush(); // Writes the remaining data to the file
+    super.print(s);
+  }
+
+  public void close() {
+    
+    errors.close(); // Finishes the file
+  }
 }
