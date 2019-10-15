@@ -15,6 +15,11 @@ import java.net.InetAddress;
 
 
 // routeradmin violeta:notabigdeal
+// opc en python
+// https://www.issackelly.com/blog/2014/07/28/snow-white-2
+// fadecandy https://groups.google.com/forum/#!forum/fadecandy
+//https://www.noction.com/blog/network-latency-effect-on-application-performance
+
 void setup()
 {
   size(320, 128);
@@ -42,7 +47,7 @@ void setup()
   movie = new Movie(this, "china.mp4");
   movie.loop();
   movie.volume(0.0);
-  frameRate(20);
+  frameRate(25);
 }
 
 
@@ -69,14 +74,12 @@ int counter = 0;
 boolean DEBUG = true;
 void draw()
 {
-  if (millis() - ms > 50) {
+  if (millis() - ms > 100) {
     ms = millis();
     counter ++;
   }
 
   background(0);
-
-
 
   if (movie.available()) {
     movie.read();

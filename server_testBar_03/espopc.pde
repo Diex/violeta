@@ -37,18 +37,18 @@ public class ESPOPC implements Runnable
   // separately.
   void draw()
   {
-    //parent.loadPixels();
+    parent.loadPixels();
     // primero proceso los pixeles.
     for (OpcDevice d : devices) {
-      d.draw();      
+      d.draw();
     }
-    
+
+    String latency = "";
     // y luego transmito para mejorar la performance
     for (OpcDevice d : devices) {
-      d.writePixels();      
+      latency += d.writePixels();
     }
-    
-    
+    println(latency);
   }
 
   public void run()
@@ -58,12 +58,12 @@ public class ESPOPC implements Runnable
     // to run smoothly when mobile servers go in and out of range.
     for (;; ) {
       for (OpcDevice d : devices) {
-        try{
+        try {
           d.run();
-        }catch (Exception e){
-          if(DEBUG) println(e);
         }
-        
+        catch (Exception e) {
+          if (DEBUG) println(e);
+        }
       }      
       // Pause thread to avoid massive CPU load
       try {
@@ -89,7 +89,7 @@ class OpcDevice {
 
   byte[] packetData;
   boolean enableShowLocations;
-  
+
   HashMap addresses;
 
   PApplet parent;
@@ -99,25 +99,25 @@ class OpcDevice {
     this.enableShowLocations = true;
     this.host = host;
     this.port = port;
-    addresses = new HashMap<String,String>();
+    addresses = new HashMap<String, String>();
   }
 
-  
+
   int panelw = 16;
   int panelh = 32;
-  
-  void ledGrid(float x, float y, float w, float h){
-  
+
+  void ledGrid(float x, float y, float w, float h) {
+
     // 0, 0, 32, 64
-    
+
     float hgap = w/panelw;  
     float vgap = h/panelh;
-    
-    ledGrid(0, panelh, panelw,
-                         (w/2) + x * w, 
-                         (h/2) + y * h, 
-                         hgap, vgap,
-                         radians(-90), true, false);
+
+    ledGrid(0, panelh, panelw, 
+      (w/2) + x * w, 
+      (h/2) + y * h, 
+      hgap, vgap, 
+      radians(-90), true, false);
   }
 
   // Set the location of several LEDs arranged in a grid. The first strip is
@@ -187,7 +187,7 @@ class OpcDevice {
   }
 
   int pmillis = 0;
-  
+
   void draw() {
     if (pixelLocations == null) {
       return;
@@ -196,11 +196,11 @@ class OpcDevice {
     if (output == null) {      
       return;
     }
-    
+
     //println(millis() - pmillis);
     pmillis = millis();
-    
-    parent.loadPixels();
+
+    //parent.loadPixels();
     int ledAddress = 4;
     for (int i = 0; i < pixelLocations.length; i++) {
       int pixelLocation = pixelLocations[i];
@@ -215,14 +215,15 @@ class OpcDevice {
   // Transmit our current buffer of pixel values to the OPC server. This is handled
   // automatically in draw() if any pixels are mapped to the screen, but if you haven't
   // mapped any pixels to the screen you'll want to call this directly.
-  void writePixels()
+  String writePixels()
   {
+    
     if (packetData == null || packetData.length == 0) {
       // No pixel buffer
-      return;
+      return "null \t";
     }
     if (output == null) {
-      return;
+      return "null \t";
     }
 
     try {
@@ -231,46 +232,42 @@ class OpcDevice {
     catch (Exception e) {
       dispose();
     }
+    
+    return "" + (millis() - pmillis) + '\t';
   }
 
 
   void run() {  
     if (this.output == null) { // No OPC connection?
       try {              // Make one!
-        if(DEBUG) println("trying to connect: " + port + ":"+ host);
-        //socket = new Socket(host, port);
-        
+        if (DEBUG) println("trying to connect: " + port + ":"+ host);
         socket = new Socket();
         socket.setSoTimeout(100);
+        socket.setPerformancePreferences(0,1,0);
         String ip;
-        if(addresses.containsKey(host)){
+        if (addresses.containsKey(host)) {
           ip = (String) addresses.get(host);
-        }else{
+        } else {
           String resolved = InetAddress.getByName(host).getCanonicalHostName();
-          addresses.put(host,resolved);
+          addresses.put(host, resolved);
           ip = resolved;
-        }
-        
+        }        
         socket.connect(new InetSocketAddress(ip, port), 100);        
         socket.setTcpNoDelay(true);
         pending = socket.getOutputStream(); // Avoid race condition...
-       if(DEBUG)  println("Connected to OPC server");
-        if(DEBUG) System.out.println("socket: " +socket);
+        if (DEBUG)  println("Connected to OPC server");
+        if (DEBUG) System.out.println("socket: " +socket);
         output = pending;                   // rest of code given access.
         // pending not set null, more config packets are OK!
       } 
       catch (ConnectException e) {
-       if(DEBUG)  println(e.getMessage());
+        if (DEBUG)  println(e.getMessage());
         dispose();
       } 
       catch (IOException e) {
-      if(DEBUG)   println(e.getMessage());
+        if (DEBUG)   println(e.getMessage());
         dispose();
       }
-      //catch (NoRouteToHostException e){
-      //  println(e.getMessage());
-      //  dispose();      
-      //}
     }
   }
 
