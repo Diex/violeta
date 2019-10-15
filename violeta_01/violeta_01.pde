@@ -106,6 +106,7 @@ void keyPressed() {
     mode = mode == MOVIE ? COLOR_BARS : MOVIE;
   }
 }
+
 void exit() {
   ((Interceptor) System.out).close();
   background(0);
