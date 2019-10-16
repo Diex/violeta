@@ -69,7 +69,7 @@ void setup()
   movie = new Movie(this, "china.mp4");
   movie.loop();
   movie.volume(0.0);
-  frameRate(20);
+  frameRate(15);
 }
 
 

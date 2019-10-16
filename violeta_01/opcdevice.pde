@@ -30,15 +30,14 @@ class OpcDevice implements Runnable {
       // Important for OPC arrays; faster startup, client continues
       // to run smoothly when mobile servers go in and out of range.
       
-      if(keepConnected()){
+      
         if (canrun) {
+          keepConnected();
           writePixelsThreaded();              
           canrun = false;
           pmillis = millis();
         }else{
         }
-      }else{
-      }
       
       try{
         this.thread.sleep(50);
@@ -48,6 +47,50 @@ class OpcDevice implements Runnable {
       
     }
   }
+  
+  SocketChannel socket;
+
+  boolean keepConnected() {
+
+      if (this.output == null) { // No OPC connection?
+      try {              // Make one!
+        if (debug) println("trying to connect: " + port + ":"+ host);
+        //socket = new Socket();
+        socket = SocketChannel.open();
+
+
+ 
+        if (resolved == null) {
+          resolved = InetAddress.getByName(host).getCanonicalHostName();
+        }        
+
+        socket.connect(new InetSocketAddress("http://jenkov.com", 80));
+  
+        //socket.connect(new InetSocketAddress(resolved, port), 100);        
+        //socket.setTcpNoDelay(true);
+        
+        pending = socket.getOutputStream(); // Avoid race condition...
+
+        if (debug)  println("Connected to OPC server");
+        if (debug) System.out.println("socket: " +socket);
+        output = pending;                   // rest of code given access.
+        // pending not set null, more config packets are OK!
+      } 
+      catch (ConnectException e) {
+        if (debug)  println(e.getMessage());
+        dispose();
+        return false;
+      } 
+      catch (IOException e) {
+        if (debug)   println(e.getMessage());
+        dispose();
+        return false;
+      }
+      return true;
+    }
+    return true;
+  }
+
 
   int panelw = 16;
   int panelh = 32;
@@ -171,40 +214,6 @@ class OpcDevice implements Runnable {
   }
 
 
-  boolean keepConnected() {
-
-      if (this.output == null) { // No OPC connection?
-      try {              // Make one!
-        if (debug) println("trying to connect: " + port + ":"+ host);
-        socket = new Socket();
-
-        if (resolved == null) {
-          resolved = InetAddress.getByName(host).getCanonicalHostName();
-        }        
-
-        socket.connect(new InetSocketAddress(resolved, port), 100);        
-        socket.setTcpNoDelay(true);
-        pending = socket.getOutputStream(); // Avoid race condition...
-
-        if (debug)  println("Connected to OPC server");
-        if (debug) System.out.println("socket: " +socket);
-        output = pending;                   // rest of code given access.
-        // pending not set null, more config packets are OK!
-      } 
-      catch (ConnectException e) {
-        if (debug)  println(e.getMessage());
-        dispose();
-        return false;
-      } 
-      catch (IOException e) {
-        if (debug)   println(e.getMessage());
-        dispose();
-        return false;
-      }
-      return true;
-    }
-    return true;
-  }
 
   void dispose()
   {
