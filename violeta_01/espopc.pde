@@ -8,28 +8,35 @@
 
 import java.net.*;
 import java.util.Arrays;
+import java.util.Map;
 
-public class ESPOPC implements Runnable
+public class ESPOPC 
 {
   PApplet parent;   
-  Thread thread;
-  ArrayList<OpcDevice> devices;
+
+  
+  HashMap<String, OpcDevice> devices;
 
   ESPOPC(PApplet parent)
   {
     this.parent = parent;
-    devices = new ArrayList<OpcDevice>();
-    thread = new Thread(this);
-    thread.start();
+    devices = new HashMap<String, OpcDevice>();
     parent.registerMethod("draw", this);
   }
 
+
   public OpcDevice addDevice(String host) {
     OpcDevice d = new OpcDevice(parent, host, 7890);
-    devices.add(d);
+    devices.put(host, d);
     return d;
   }
 
+  public void start(){
+    for (Map.Entry<String, OpcDevice> device : devices.entrySet()) {
+      device.getValue().thread.start();
+    }
+  }
+  
   // Automatically called at the end of each draw().
   // This handles the automatic Pixel to LED mapping.
   // If you aren't using that mapping, this function has no effect.
@@ -39,48 +46,17 @@ public class ESPOPC implements Runnable
   {
     parent.loadPixels();
     // primero proceso los pixeles.
-    for (OpcDevice d : devices) {
-      d.draw();     
+    for (Map.Entry<String, OpcDevice> device : devices.entrySet()) {
+      device.getValue().draw();
     }
 
-    String latency = "";
-    // y luego transmito para mejorar la performance
-    for (OpcDevice d : devices) {
-      latency += d.writePixelsThreaded();
-      
-      //for(OpcDevice d : devices){
-      //    d.writePixelsThreaded();
-      //  }
-        
-      
-      
+    String rtts = "";
+    for (Map.Entry<String, OpcDevice> device : devices.entrySet()) {      
+      rtts += device.getValue().writePixels();
     }
-    println(latency);
+    println(rtts);
   }
 
-  public void run(){
-  
-    for (;;) {
-      try {
-        for(OpcDevice d : devices){
-          d.keepConnected();
-        }        
-      }
-      
-      
-      catch (Exception e) {
-        if (debug) println(e);
-      }
-
-      // Pause thread to avoid massive CPU load
-      try {
-        Thread.sleep(500);
-      }
-      catch(InterruptedException e) {
-      }
-    }
-     
-  }
   
 }
 

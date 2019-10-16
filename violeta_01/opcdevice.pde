@@ -3,51 +3,49 @@ class OpcDevice implements Runnable {
   Thread thread;
   private int[] pixelLocations;
   private String host;
+  private String resolved;
   private int port;
 
   Socket socket;
   OutputStream output, pending;
 
   byte[] packetData;
-  boolean enableShowLocations;
 
-  HashMap addresses;
 
   PApplet parent;
+  boolean canrun = true;
 
   OpcDevice(PApplet parent, String host, int port) {
     thread = new Thread(this);
-    //thread.start();
-    this.parent = parent;
-    this.enableShowLocations = true;
+    this.parent = parent;  
     this.host = host;
     this.port = port;
-    addresses = new HashMap<String, String>();
   }
 
-  boolean canrun = false;
+
   public void run()
   {
-    // Thread tests server connection periodically, attempts reconnection.
-    // Important for OPC arrays; faster startup, client continues
-    // to run smoothly when mobile servers go in and out of range.
-    for (;; ) {
-      try {
-        //if(canrun)  {
-          writePixelsThreaded();
-          //canrun = false;
-        //}
+    while (true) {
+      // Thread tests server connection periodically, attempts reconnection.
+      // Important for OPC arrays; faster startup, client continues
+      // to run smoothly when mobile servers go in and out of range.
+      
+      if(keepConnected()){
+        if (canrun) {
+          writePixelsThreaded();              
+          canrun = false;
+          pmillis = millis();
+        }else{
+        }
+      }else{
       }
-      catch (Exception e) {
-        if (debug) println(e);
+      
+      try{
+        this.thread.sleep(50);
+      }catch (Exception e){
+      
       }
-
-//      // Pause thread to avoid massive CPU load
-      try {
-        Thread.sleep(10);
-      }
-      catch(InterruptedException e) {
-      }
+      
     }
   }
 
@@ -144,9 +142,6 @@ class OpcDevice implements Runnable {
     if (output == null) {      
       return;
     }
-
-
-    pmillis = millis();
     int ledAddress = 4;
     for (int i = 0; i < pixelLocations.length; i++) {
       int pixelLocation = pixelLocations[i];
@@ -156,52 +151,41 @@ class OpcDevice implements Runnable {
       packetData[ledAddress + 2] = (byte)pixel;
       ledAddress += 3;
     }
+    
+    //canrun = true;
   }
 
-  // Transmit our current buffer of pixel values to the OPC server. This is handled
-  // automatically in draw() if any pixels are mapped to the screen, but if you haven't
-  // mapped any pixels to the screen you'll want to call this directly.
-  String writePixelsThreaded()
+  void writePixelsThreaded()
   {
-    if (packetData == null || packetData.length == 0) {
-      return "null \t";
-    }
-    if (output == null) {
-      return "null \t";
-    }
     try {
       output.write(packetData);
     } 
     catch (Exception e) {
       dispose();
     }
-    return "" + (millis() - pmillis) + '\t';
   }
-  
-  String writePixels(){
+
+  String writePixels() {
     canrun = true;
     return "" + (millis() - pmillis) + '\t';
   }
 
 
-  void keepConnected() {  
-    if (this.output == null) { // No OPC connection?
+  boolean keepConnected() {
+
+      if (this.output == null) { // No OPC connection?
       try {              // Make one!
         if (debug) println("trying to connect: " + port + ":"+ host);
         socket = new Socket();
 
-        //socket.setPerformancePreferences(0,1,0); // esto no hace nada.. no está implementado...
-        String ip;
-        if (addresses.containsKey(host)) {
-          ip = (String) addresses.get(host);
-        } else {
-          String resolved = InetAddress.getByName(host).getCanonicalHostName();
-          addresses.put(host, resolved);
-          ip = resolved;
+        if (resolved == null) {
+          resolved = InetAddress.getByName(host).getCanonicalHostName();
         }        
-        socket.connect(new InetSocketAddress(ip, port), 100);        
+
+        socket.connect(new InetSocketAddress(resolved, port), 100);        
         socket.setTcpNoDelay(true);
         pending = socket.getOutputStream(); // Avoid race condition...
+
         if (debug)  println("Connected to OPC server");
         if (debug) System.out.println("socket: " +socket);
         output = pending;                   // rest of code given access.
@@ -210,12 +194,16 @@ class OpcDevice implements Runnable {
       catch (ConnectException e) {
         if (debug)  println(e.getMessage());
         dispose();
+        return false;
       } 
       catch (IOException e) {
         if (debug)   println(e.getMessage());
         dispose();
+        return false;
       }
+      return true;
     }
+    return true;
   }
 
   void dispose()

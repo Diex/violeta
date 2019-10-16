@@ -5,12 +5,12 @@ import java.io.PrintStream;
 import java.util.Scanner;
 import java.util.Date;
 import java.text.SimpleDateFormat;
+import processing.video.*;
 
 
 //https://github.com/scanlime/fadecandy/blob/master/doc/processing_opc_client.md
 ESPOPC opc;
 
-import processing.video.*;
 Movie movie;
 
 boolean debug = true;
@@ -26,6 +26,7 @@ int mode = MOVIE;
 
 
 // routeradmin violeta:notabigdeal
+
 // opc en python
 // https://www.issackelly.com/blog/2014/07/28/snow-white-2
 // fadecandy https://groups.google.com/forum/#!forum/fadecandy
@@ -36,13 +37,17 @@ int mode = MOVIE;
 void setup()
 {
   size(320, 128);
+
   date = new Date();
+
   PrintStream origOut = System.out;
   PrintStream interceptor = new Interceptor(origOut);
   System.setOut(interceptor);
 
 
-  opc = new ESPOPC(this);  
+  opc = new ESPOPC(this);
+
+
   opc.addDevice("dsp_01.local").ledGrid(0, 0, 16, 32);
   opc.addDevice("dsp_02.local").ledGrid(1, 0, 16, 32);
   opc.addDevice("dsp_03.local").ledGrid(2, 0, 16, 32);
@@ -50,7 +55,7 @@ void setup()
   opc.addDevice("dsp_05.local").ledGrid(4, 0, 16, 32);
   opc.addDevice("dsp_06.local").ledGrid(5, 0, 16, 32);
   opc.addDevice("dsp_07.local").ledGrid(6, 0, 16, 32);
-  opc.addDevice("dsp_08.local").ledGrid(7, 0, 16, 32);  
+  opc.addDevice("dsp_08.local").ledGrid(7, 0, 16, 32);
   opc.addDevice("dsp_09.local").ledGrid(8, 0, 16, 32);
   opc.addDevice("dsp_10.local").ledGrid(9, 0, 16, 32);
 
@@ -59,25 +64,29 @@ void setup()
   opc.addDevice("dsp_13.local").ledGrid(5, 1, 16, 32);
   opc.addDevice("dsp_14.local").ledGrid(6, 1, 16, 32);
 
+  opc.start();
 
   movie = new Movie(this, "china.mp4");
   movie.loop();
   movie.volume(0.0);
-  frameRate(25);
+  frameRate(20);
 }
 
 
-
+int lastFrame = 0;
 
 void draw()
 {
+
   if (debug) {
-    println("new frame: " +millis());
+    //println("new frame: \t" + millis());
+    //println((millis() - lastFrame));
   }
-   
+
   background(0);
 
   switch(mode) {
+
   case MOVIE:
     if (movie.available()) {
       movie.read();
@@ -91,18 +100,17 @@ void draw()
   }
 
   ndfilter(127);
-
-  
+  lastFrame = millis();
 }
 
-void ndfilter(int value){
+void ndfilter(int value) {
   fill(0, 127);
   rect(0, 0, width, height);
 }
 
 
 void keyPressed() {
-  if(key == ' ') {
+  if (key == ' ') {
     mode = mode == MOVIE ? COLOR_BARS : MOVIE;
   }
 }
