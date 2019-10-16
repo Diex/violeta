@@ -11,11 +11,10 @@ import processing.video.*;
 //https://github.com/scanlime/fadecandy/blob/master/doc/processing_opc_client.md
 ESPOPC opc;
 
+import VLCJVideo.*;
 
-import gohai.glvideo.*;
-GLMovie video;
+VLCJVideo video;
 
-Movie movie;
 
 boolean debug = true;
 int ms = 0;
@@ -55,31 +54,29 @@ void setup()
   opc = new ESPOPC(this);
 
 
-//  opc.addDevice("dsp_01.local").ledGrid(0, 0, 16, 32);
-//  opc.addDevice("dsp_02.local").ledGrid(1, 0, 16, 32);
-  //opc.addDevice("dsp_03.local").ledGrid(2, 0, 16, 32);
-  //opc.addDevice("dsp_04.local").ledGrid(3, 0, 16, 32);
-  //opc.addDevice("dsp_05.local").ledGrid(4, 0, 16, 32);
-//  opc.addDevice("dsp_06.local").ledGrid(5, 0, 16, 32);
-//  opc.addDevice("dsp_07.local").ledGrid(6, 0, 16, 32);
-//  opc.addDevice("dsp_08.local").ledGrid(7, 0, 16, 32);
-//  opc.addDevice("dsp_09.local").ledGrid(8, 0, 16, 32);
-//  opc.addDevice("dsp_10.local").ledGrid(9, 0, 16, 32);
+  opc.addDevice("dsp_01.local").ledGrid(0, 0, 16, 32);
+  opc.addDevice("dsp_02.local").ledGrid(1, 0, 16, 32);
+  opc.addDevice("dsp_03.local").ledGrid(2, 0, 16, 32);
+  opc.addDevice("dsp_04.local").ledGrid(3, 0, 16, 32);
+  opc.addDevice("dsp_05.local").ledGrid(4, 0, 16, 32);
+  opc.addDevice("dsp_06.local").ledGrid(5, 0, 16, 32);
+  opc.addDevice("dsp_07.local").ledGrid(6, 0, 16, 32);
+  opc.addDevice("dsp_08.local").ledGrid(7, 0, 16, 32);
+  opc.addDevice("dsp_09.local").ledGrid(8, 0, 16, 32);
+  opc.addDevice("dsp_10.local").ledGrid(9, 0, 16, 32);
 
-//  opc.addDevice("dsp_11.local").ledGrid(3, 1, 16, 32);
-//  opc.addDevice("dsp_12.local").ledGrid(4, 1, 16, 32);
-//  opc.addDevice("dsp_13.local").ledGrid(5, 1, 16, 32);
-//  opc.addDevice("dsp_14.local").ledGrid(6, 1, 16, 32);
+  opc.addDevice("dsp_11.local").ledGrid(3, 1, 16, 32);
+  opc.addDevice("dsp_12.local").ledGrid(4, 1, 16, 32);
+  opc.addDevice("dsp_13.local").ledGrid(5, 1, 16, 32);
+  opc.addDevice("dsp_14.local").ledGrid(6, 1, 16, 32);
 
   opc.addDevice("dsp_16.local").ledGrid(6, 1, 16, 32);
   opc.start();
-
-//  movie = new Movie(this, "china.mp4");
-//  movie.loop();
-//  movie.volume(0.0);
-  video = new GLMovie(this, "china.mp4");
-  video.loop();  
-  frameRate(30);
+  video = new VLCJVideo(this);
+  video.openMedia("china.mp4");
+  video.loop();
+  video.play();
+  frameRate(10);
 }
 
 
@@ -103,9 +100,9 @@ void draw()
     //}
     //image(movie, 0, 0, width, height);
     
-    if (video.available()) {
-    video.read();
-  }
+  //  if (video.available()) {
+  //  video.read();
+  //}
   image(video, 0, 0, width, height);
     break;
 
