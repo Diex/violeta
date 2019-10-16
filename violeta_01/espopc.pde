@@ -51,10 +51,10 @@ public class ESPOPC
     }
 
     String rtts = "";
-    for (Map.Entry<String, OpcDevice> device : devices.entrySet()) {      
-      rtts += device.getValue().writePixels();
-    }
-    println(rtts);
+    //for (Map.Entry<String, OpcDevice> device : devices.entrySet()) {      
+    //  rtts += device.getValue().writePixels();
+    //}
+    //println(rtts);
   }
 
   
