@@ -1,0 +1,3567 @@
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+3546	3546	3546	3546	3546	3546	3546	3546	3546	3546	3546	3546	3546	3546	
+3589	3589	3589	3589	3589	3589	3589	3589	3589	3589	3589	3589	3589	3589	
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58895 remote=/192.168.1.113:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58896 remote=/192.168.1.101:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58898 remote=/192.168.1.106:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58897 remote=/192.168.1.108:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58899 remote=/192.168.1.102:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58902 remote=/192.168.1.104:7890]
+3659	20	3659	14	10	3659	3659	3659	16	3659	3659	9	12	3659	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58903 remote=/192.168.1.107:7890]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58900 remote=/192.168.1.105:7890]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58905 remote=/192.168.1.110:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58907 remote=/192.168.1.111:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58906 remote=/192.168.1.103:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58904 remote=/192.168.1.100:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58908 remote=/192.168.1.108:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58909 remote=/192.168.1.102:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58910 remote=/192.168.1.113:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+trying to connect: dsp_01.local:7890
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58913 remote=/192.168.1.101:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58901 remote=/192.168.1.112:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+5	7	68	17	104	83	42	42	19	43	43	6	106	3753	
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58911 remote=/192.168.1.106:7890]
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58912 remote=/192.168.1.104:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+49	51	112	61	40	127	86	86	63	87	87	50	43	3797	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58916 remote=/192.168.1.110:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58914 remote=/192.168.1.107:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58918 remote=/192.168.1.100:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58919 remote=/192.168.1.103:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58920 remote=/192.168.1.108:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58915 remote=/192.168.1.105:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58917 remote=/192.168.1.111:7890]
+108	110	38	120	99	39	38	38	38	38	39	109	102	3856	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58921 remote=/192.168.1.112:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58922 remote=/192.168.1.102:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58924 remote=/192.168.1.106:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58925 remote=/192.168.1.101:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58926 remote=/192.168.1.104:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58923 remote=/192.168.1.113:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58930 remote=/192.168.1.103:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58927 remote=/192.168.1.110:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58932 remote=/192.168.1.111:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58928 remote=/192.168.1.107:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58933 remote=/192.168.1.108:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58929 remote=/192.168.1.100:7890]
+36	35	108	36	35	21	21	21	21	21	21	35	35	3926	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58931 remote=/192.168.1.105:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58934 remote=/192.168.1.102:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58935 remote=/192.168.1.104:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58936 remote=/192.168.1.101:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58937 remote=/192.168.1.106:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58942 remote=/192.168.1.110:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58941 remote=/192.168.1.100:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58940 remote=/192.168.1.103:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58939 remote=/192.168.1.113:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58938 remote=/192.168.1.112:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58943 remote=/192.168.1.108:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58944 remote=/192.168.1.107:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58945 remote=/192.168.1.111:7890]
+15	15	46	22	21	13	16	16	13	12	18	20	19	4016	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58946 remote=/192.168.1.105:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58947 remote=/192.168.1.104:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58948 remote=/192.168.1.101:7890]
+63	63	5	70	3	61	64	64	61	60	66	3	67	4064	
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58949 remote=/192.168.1.102:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58951 remote=/192.168.1.110:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58954 remote=/192.168.1.113:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58953 remote=/192.168.1.103:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58952 remote=/192.168.1.100:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58955 remote=/192.168.1.112:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58956 remote=/192.168.1.108:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58957 remote=/192.168.1.107:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58958 remote=/192.168.1.111:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58950 remote=/192.168.1.106:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58959 remote=/192.168.1.101:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58960 remote=/192.168.1.104:7890]
+7	8	69	9	3	5	8	7	7	5	8	4	5	4128	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58961 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+69	70	21	71	65	67	70	69	69	67	70	66	67	4190	
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+trying to connect: dsp_12.local:7890
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58964 remote=/192.168.1.110:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58966 remote=/192.168.1.100:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+trying to connect: dsp_14.local:7890
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58973 remote=/192.168.1.104:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58962 remote=/192.168.1.102:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58974 remote=/192.168.1.109:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58971 remote=/192.168.1.107:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58972 remote=/192.168.1.101:7890]
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58969 remote=/192.168.1.111:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58968 remote=/192.168.1.106:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58970 remote=/192.168.1.112:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58967 remote=/192.168.1.108:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58965 remote=/192.168.1.103:7890]
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58963 remote=/192.168.1.113:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+53	51	101	58	59	57	52	60	53	53	60	54	53	57	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58976 remote=/192.168.1.110:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58977 remote=/192.168.1.100:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58978 remote=/192.168.1.104:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58981 remote=/192.168.1.107:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58979 remote=/192.168.1.102:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58980 remote=/192.168.1.109:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58982 remote=/192.168.1.101:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58983 remote=/192.168.1.111:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58984 remote=/192.168.1.106:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58985 remote=/192.168.1.112:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58986 remote=/192.168.1.108:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58988 remote=/192.168.1.113:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58987 remote=/192.168.1.103:7890]
+16	9	162	17	17	17	9	19	16	16	19	16	16	17	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58975 remote=/192.168.1.105:7890]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+79	72	35	80	80	80	72	82	79	79	82	79	79	80	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58994 remote=/192.168.1.101:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58992 remote=/192.168.1.112:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58991 remote=/192.168.1.106:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59001 remote=/192.168.1.113:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58995 remote=/192.168.1.109:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58996 remote=/192.168.1.102:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58997 remote=/192.168.1.111:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58998 remote=/192.168.1.107:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58999 remote=/192.168.1.104:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59000 remote=/192.168.1.103:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58990 remote=/192.168.1.110:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58989 remote=/192.168.1.100:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:58993 remote=/192.168.1.108:7890]
+41	41	103	40	40	40	40	40	40	40	40	41	41	40	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59002 remote=/192.168.1.105:7890]
+106	106	25	105	105	105	105	105	105	105	105	106	106	105	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59005 remote=/192.168.1.101:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59003 remote=/192.168.1.112:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59006 remote=/192.168.1.113:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59007 remote=/192.168.1.109:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59008 remote=/192.168.1.102:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59009 remote=/192.168.1.111:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59010 remote=/192.168.1.107:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59011 remote=/192.168.1.104:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59004 remote=/192.168.1.106:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59012 remote=/192.168.1.103:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59014 remote=/192.168.1.100:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59015 remote=/192.168.1.108:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59013 remote=/192.168.1.110:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+55	55	92	54	53	53	53	52	52	53	52	55	53	54	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59017 remote=/192.168.1.101:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+trying to connect: dsp_13.local:7890
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59019 remote=/192.168.1.113:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59021 remote=/192.168.1.107:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59022 remote=/192.168.1.104:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59018 remote=/192.168.1.112:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59027 remote=/192.168.1.110:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59025 remote=/192.168.1.100:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59024 remote=/192.168.1.106:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59026 remote=/192.168.1.108:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59016 remote=/192.168.1.105:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59023 remote=/192.168.1.103:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59028 remote=/192.168.1.102:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59020 remote=/192.168.1.109:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59029 remote=/192.168.1.111:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+41	42	40	39	42	42	40	41	40	39	41	59	41	39	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59030 remote=/192.168.1.101:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59031 remote=/192.168.1.104:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59033 remote=/192.168.1.113:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59035 remote=/192.168.1.110:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59036 remote=/192.168.1.100:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59040 remote=/192.168.1.111:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59039 remote=/192.168.1.108:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59041 remote=/192.168.1.102:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59042 remote=/192.168.1.109:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59032 remote=/192.168.1.107:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59043 remote=/192.168.1.103:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59038 remote=/192.168.1.106:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59034 remote=/192.168.1.112:7890]
+11	14	107	14	17	13	13	15	14	14	15	17	12	13	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59037 remote=/192.168.1.105:7890]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59045 remote=/192.168.1.113:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59046 remote=/192.168.1.101:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59047 remote=/192.168.1.110:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59044 remote=/192.168.1.104:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59048 remote=/192.168.1.111:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59055 remote=/192.168.1.106:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59054 remote=/192.168.1.109:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59051 remote=/192.168.1.102:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59053 remote=/192.168.1.100:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59052 remote=/192.168.1.108:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59050 remote=/192.168.1.103:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59049 remote=/192.168.1.107:7890]
+79	22	35	14	21	13	13	14	14	14	21	22	14	14	
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59056 remote=/192.168.1.112:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59057 remote=/192.168.1.105:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59058 remote=/192.168.1.101:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59059 remote=/192.168.1.110:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+58	88	21	80	87	79	79	80	80	80	19	19	80	80	
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59060 remote=/192.168.1.113:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59061 remote=/192.168.1.104:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59063 remote=/192.168.1.103:7890]
+trying to connect: dsp_06.local:7890
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59069 remote=/192.168.1.106:7890]
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59062 remote=/192.168.1.108:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59065 remote=/192.168.1.102:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59068 remote=/192.168.1.111:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59067 remote=/192.168.1.107:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59064 remote=/192.168.1.100:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59066 remote=/192.168.1.109:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59070 remote=/192.168.1.112:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+null
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59071 remote=/192.168.1.105:7890]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59072 remote=/192.168.1.110:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59073 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+60	61	9	60	61	60	61	60	60	60	4	4	61	60	
+trying to connect: dsp_06.local:7890
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59077 remote=/192.168.1.107:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59076 remote=/192.168.1.111:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59075 remote=/192.168.1.102:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59074 remote=/192.168.1.108:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59078 remote=/192.168.1.100:7890]
+trying to connect: dsp_13.local:7890
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59083 remote=/192.168.1.103:7890]
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59079 remote=/192.168.1.109:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59081 remote=/192.168.1.112:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59080 remote=/192.168.1.113:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59082 remote=/192.168.1.106:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59084 remote=/192.168.1.104:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+54	54	78	65	40	65	55	65	65	65	73	73	54	55	
+null
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59085 remote=/192.168.1.105:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59086 remote=/192.168.1.101:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59087 remote=/192.168.1.110:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59088 remote=/192.168.1.107:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59089 remote=/192.168.1.102:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59090 remote=/192.168.1.108:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59091 remote=/192.168.1.100:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59093 remote=/192.168.1.106:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59092 remote=/192.168.1.111:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59094 remote=/192.168.1.112:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59096 remote=/192.168.1.103:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59095 remote=/192.168.1.113:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59097 remote=/192.168.1.109:7890]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59098 remote=/192.168.1.104:7890]
+31	31	36	35	8	35	31	34	34	34	35	36	34	31	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59099 remote=/192.168.1.101:7890]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59100 remote=/192.168.1.105:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59102 remote=/192.168.1.107:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59105 remote=/192.168.1.100:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59101 remote=/192.168.1.110:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59104 remote=/192.168.1.106:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59103 remote=/192.168.1.102:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59106 remote=/192.168.1.111:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59109 remote=/192.168.1.103:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59108 remote=/192.168.1.112:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59111 remote=/192.168.1.113:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59107 remote=/192.168.1.108:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59110 remote=/192.168.1.109:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+36	36	44	39	78	42	36	44	36	37	41	44	40	36	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59112 remote=/192.168.1.104:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59113 remote=/192.168.1.101:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59114 remote=/192.168.1.100:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59115 remote=/192.168.1.107:7890]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59116 remote=/192.168.1.105:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59122 remote=/192.168.1.111:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59119 remote=/192.168.1.106:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59117 remote=/192.168.1.110:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59120 remote=/192.168.1.112:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59121 remote=/192.168.1.113:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59118 remote=/192.168.1.103:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59124 remote=/192.168.1.109:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59125 remote=/192.168.1.108:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59123 remote=/192.168.1.102:7890]
+33	32	33	22	51	39	32	39	23	33	33	40	33	23	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59127 remote=/192.168.1.107:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59136 remote=/192.168.1.113:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59132 remote=/192.168.1.106:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59129 remote=/192.168.1.100:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59130 remote=/192.168.1.110:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59131 remote=/192.168.1.112:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59134 remote=/192.168.1.111:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59135 remote=/192.168.1.103:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59126 remote=/192.168.1.104:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59128 remote=/192.168.1.101:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59137 remote=/192.168.1.109:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59138 remote=/192.168.1.102:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59139 remote=/192.168.1.108:7890]
+35	35	109	32	34	35	34	35	9	34	35	34	35	32	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59133 remote=/192.168.1.105:7890]
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59141 remote=/192.168.1.106:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59140 remote=/192.168.1.107:7890]
+trying to connect: dsp_12.local:7890
+trying to connect: dsp_11.local:7890
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+trying to connect: dsp_14.local:7890
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59146 remote=/192.168.1.110:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59148 remote=/192.168.1.112:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59149 remote=/192.168.1.100:7890]
+97	97	42	94	96	3	96	97	71	96	97	96	4	94	
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59151 remote=/192.168.1.109:7890]
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59147 remote=/192.168.1.111:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59143 remote=/192.168.1.104:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59144 remote=/192.168.1.103:7890]
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59142 remote=/192.168.1.113:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59145 remote=/192.168.1.101:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59150 remote=/192.168.1.102:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59152 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59153 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59154 remote=/192.168.1.106:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59155 remote=/192.168.1.107:7890]
+null
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+java.nio.channels.SocketChannel[unconnected]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59156 remote=/192.168.1.110:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+trying to connect: dsp_01.local:7890
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59158 remote=/192.168.1.100:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59162 remote=/192.168.1.103:7890]
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59159 remote=/192.168.1.109:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59160 remote=/192.168.1.111:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59161 remote=/192.168.1.104:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59157 remote=/192.168.1.112:7890]
+68	67	24	63	67	8	67	68	63	68	68	67	14	68	
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59163 remote=/192.168.1.113:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59164 remote=/192.168.1.101:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59165 remote=/192.168.1.108:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59166 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59167 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59168 remote=/192.168.1.106:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59169 remote=/192.168.1.107:7890]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+129	60	27	51	128	14	128	129	51	129	129	60	21	129	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_01.local:7890
+Connected to OPC server
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59172 remote=/192.168.1.104:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59174 remote=/192.168.1.103:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59175 remote=/192.168.1.109:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59170 remote=/192.168.1.110:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59171 remote=/192.168.1.112:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59173 remote=/192.168.1.111:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59176 remote=/192.168.1.100:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59178 remote=/192.168.1.113:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59179 remote=/192.168.1.102:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59180 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59182 remote=/192.168.1.106:7890]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59181 remote=/192.168.1.105:7890]
+null
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+67	67	22	61	67	84	67	67	61	67	67	130	27	67	
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59184 remote=/192.168.1.109:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59186 remote=/192.168.1.100:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59188 remote=/192.168.1.113:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59187 remote=/192.168.1.111:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59189 remote=/192.168.1.112:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59190 remote=/192.168.1.110:7890]
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59191 remote=/192.168.1.103:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+61	61	88	127	133	150	56	61	127	61	56	196	93	61	
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59194 remote=/192.168.1.106:7890]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59196 remote=/192.168.1.109:7890]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59202 remote=/192.168.1.110:7890]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59195 remote=/192.168.1.105:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59198 remote=/192.168.1.111:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59205 remote=/192.168.1.109:7890]
+127	127	33	193	199	216	122	127	193	33	56	262	63	57	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59207 remote=/192.168.1.105:7890]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59208 remote=/192.168.1.111:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+191	191	35	257	263	280	186	191	257	34	120	326	127	121	
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59209 remote=/192.168.1.109:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59211 remote=/192.168.1.111:7890]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59210 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59212 remote=/192.168.1.109:7890]
+259	259	42	325	331	348	254	259	325	47	188	394	195	66	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+324	324	107	390	396	413	319	324	390	112	253	459	260	131	
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59215 remote=/192.168.1.109:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59216 remote=/192.168.1.109:7890]
+393	393	176	459	465	482	388	393	459	181	322	528	329	66	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59217 remote=/192.168.1.109:7890]
+460	460	243	526	532	549	455	460	526	248	389	595	396	16	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_13.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59218 remote=/192.168.1.109:7890]
+528	528	311	594	600	617	523	528	594	316	457	663	464	24	
+null
+java.nio.channels.SocketChannel[unconnected]
+595	595	378	661	667	684	590	595	661	383	524	730	531	91	
+660	660	443	726	732	749	655	660	726	448	589	795	596	156	
+732	732	515	798	804	821	727	732	798	520	661	867	668	228	
+795	795	578	861	867	884	790	795	861	583	724	930	731	291	
+860	860	643	926	932	949	855	860	926	648	789	995	796	356	
+926	926	709	992	998	1015	921	926	992	714	855	1061	862	422	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59177 remote=/192.168.1.101:7890]
+993	993	776	1059	1065	1082	988	993	1059	781	922	3	929	489	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59183 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59193 remote=/192.168.1.108:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59192 remote=/192.168.1.102:7890]
+1062	1062	845	4	1134	32	1057	1062	4	850	991	72	998	558	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59200 remote=/192.168.1.100:7890]
+trying to connect: dsp_12.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59199 remote=/192.168.1.113:7890]
+trying to connect: dsp_02.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59197 remote=/192.168.1.112:7890]
+5	6	909	68	1198	96	1121	7	68	914	1055	136	1062	622	
+trying to connect: dsp_11.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59203 remote=/192.168.1.103:7890]
+null
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59204 remote=/192.168.1.106:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59206 remote=/192.168.1.110:7890]
+73	74	977	136	1266	164	61	75	136	982	6	204	15	690	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59229 remote=/192.168.1.106:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59230 remote=/192.168.1.110:7890]
+140	141	1044	203	1333	231	128	142	203	1049	4	271	18	757	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59231 remote=/192.168.1.106:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59213 remote=/192.168.1.111:7890]
+206	207	1110	269	1399	297	194	208	269	3	70	337	20	823	
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59232 remote=/192.168.1.110:7890]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59214 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59233 remote=/192.168.1.106:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59234 remote=/192.168.1.111:7890]
+269	270	41	332	1462	360	257	271	332	6	57	400	13	886	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59238 remote=/192.168.1.111:7890]
+334	335	106	397	1527	425	322	336	397	15	122	465	78	951	
+null
+java.nio.channels.SocketChannel[unconnected]
+405	406	177	468	1598	496	393	407	468	86	193	536	149	1022	
+472	473	244	535	1665	563	460	474	535	153	260	603	216	1089	
+535	536	307	598	1728	626	523	537	598	216	323	666	279	1152	
+607	608	379	670	1800	698	595	609	670	288	395	738	351	1224	
+670	671	442	733	1863	761	658	672	733	351	458	801	414	1287	
+738	739	510	801	1931	829	726	740	801	419	526	869	482	1355	
+806	807	578	869	1999	897	794	808	869	487	594	937	550	1423	
+872	873	644	935	2065	963	860	874	935	553	660	1003	616	1489	
+939	940	711	1002	2132	1030	927	941	1002	620	727	1070	683	1556	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59221 remote=/192.168.1.101:7890]
+1002	1003	774	1065	2195	1093	990	1004	1065	683	790	22	746	1619	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59222 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59223 remote=/192.168.1.108:7890]
+1072	1073	844	1135	2265	50	1060	1074	21	753	860	92	816	1689	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59227 remote=/192.168.1.100:7890]
+1137	1138	909	1200	2330	115	1125	15	86	818	925	157	881	1754	
+null
+java.nio.channels.SocketChannel[unconnected]
+1207	1208	979	1270	2400	185	1195	85	156	888	995	227	951	1824	
+1268	1269	1040	1331	2461	246	1256	146	217	949	1056	288	1012	1885	
+trying to connect: dsp_04.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59235 remote=/192.168.1.110:7890]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59236 remote=/192.168.1.105:7890]
+1336	1337	4	1399	2529	314	1324	214	285	1017	27	356	1080	1953	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59237 remote=/192.168.1.106:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+1403	1404	71	1466	2596	381	1391	281	352	1084	94	423	31	2020	
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59239 remote=/192.168.1.111:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+1473	1474	141	1536	2666	451	1461	351	422	48	164	493	101	2090	
+null
+java.nio.channels.SocketChannel[unconnected]
+1540	1541	208	1603	2733	518	1528	418	489	115	231	560	168	2157	
+1604	1605	272	1667	2797	582	1592	482	553	179	295	624	232	2221	
+1673	1674	341	1736	2866	651	1661	551	622	248	364	693	301	2290	
+1739	1740	407	1802	2932	717	1727	617	688	314	430	759	367	2356	
+1801	1802	469	1864	2994	779	1789	679	750	376	492	821	429	2418	
+1870	1871	538	1933	3063	848	1858	748	819	445	561	890	498	2487	
+1936	1937	604	1999	3129	914	1924	814	885	511	627	956	564	2553	
+2007	2008	675	2070	3200	985	1995	885	956	582	698	1027	635	2624	
+2074	2075	742	2137	3267	1052	2062	952	1023	649	765	1094	702	2691	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59241 remote=/192.168.1.101:7890]
+2141	2142	809	2204	3334	1119	2129	1019	1090	716	832	51	769	2758	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59243 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+2204	2205	872	2267	3397	1182	2192	1082	57	779	895	114	832	2821	
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59244 remote=/192.168.1.100:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+2273	2274	941	2336	3466	1251	2261	56	126	848	964	183	901	2890	
+2338	2339	1006	2401	3531	1316	2326	121	191	913	1029	248	966	2955	
+2404	2405	1072	2467	3597	1382	2392	187	257	979	1095	314	1032	3021	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59246 remote=/192.168.1.105:7890]
+trying to connect: dsp_03.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59247 remote=/192.168.1.106:7890]
+2473	2474	37	2536	3666	1451	2461	256	326	1048	1164	383	13	3090	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59248 remote=/192.168.1.111:7890]
+2541	2542	105	2604	3734	1519	2529	324	394	18	1232	451	81	3158	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59255 remote=/192.168.1.111:7890]
+2608	2609	172	2671	3801	1586	2596	391	461	20	1299	518	148	3225	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59256 remote=/192.168.1.111:7890]
+2671	2672	235	2734	3864	1649	2659	454	524	17	1362	581	211	3288	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59257 remote=/192.168.1.111:7890]
+2755	2757	320	2819	3949	1734	2744	539	609	25	1447	666	296	3373	
+null
+java.nio.channels.SocketChannel[unconnected]
+2817	2818	381	2880	4010	1795	2805	600	670	86	1508	727	357	3434	
+2876	2877	440	2939	4069	1854	2864	659	729	145	1567	786	416	3493	
+2963	2964	527	3026	4156	1941	2951	746	816	232	1654	873	503	3580	
+3003	3004	567	3066	4196	1981	2991	786	856	272	1694	913	543	3620	
+3072	3073	636	3135	4265	2050	3060	855	925	341	1763	982	612	3689	
+3139	3140	703	3202	4332	2117	3127	922	992	408	1830	1049	679	3756	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59250 remote=/192.168.1.101:7890]
+3204	3205	768	3267	4397	2182	3192	987	1057	473	1895	30	744	3821	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59251 remote=/192.168.1.108:7890]
+3274	3275	838	3337	4467	2252	3262	1057	38	543	1965	100	814	3891	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59252 remote=/192.168.1.100:7890]
+3337	3338	901	3400	4530	2315	3325	30	101	606	2028	163	877	3954	
+null
+java.nio.channels.SocketChannel[unconnected]
+3404	3405	968	3467	4597	2382	3392	97	168	673	2095	230	944	4021	
+3471	3472	1035	3534	4664	2449	3459	164	235	740	2162	297	1011	4088	
+3540	3541	1104	3603	4733	2518	3528	233	304	809	2231	366	1080	4157	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59253 remote=/192.168.1.105:7890]
+3606	3607	7	3669	4799	2584	3594	299	370	875	2297	432	1146	4223	
+null
+java.nio.channels.SocketChannel[unconnected]
+3669	3670	70	3732	4862	2647	3657	362	433	938	2360	495	1209	4286	
+3736	3737	137	3799	4929	2714	3724	429	500	1005	2427	562	1276	4353	
+3805	3806	206	3868	4998	2783	3793	498	569	1074	2496	631	1345	4422	
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59258 remote=/192.168.1.111:7890]
+3874	3875	275	3937	5067	2852	3862	567	638	48	2565	700	1414	4491	
+null
+java.nio.channels.SocketChannel[unconnected]
+3935	3936	336	3998	5128	2913	3923	628	699	109	2626	761	1475	4552	
+4004	4005	405	4067	5197	2982	3992	697	768	178	2695	830	1544	4621	
+4071	4072	472	4134	5264	3049	4059	764	835	245	2762	897	1611	4688	
+4138	4139	539	4201	5331	3116	4126	831	902	312	2829	964	1678	4755	
+4206	4207	607	4269	5399	3184	4194	899	970	380	2897	1032	1746	4823	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59259 remote=/192.168.1.101:7890]
+4271	4272	672	4334	5464	3249	4259	964	1035	445	2962	12	1811	4888	
+null
+java.nio.channels.SocketChannel[unconnected]
+4339	4340	740	4402	5532	3317	4327	1032	1103	513	3030	80	1879	4956	
+4405	4406	806	4468	5598	3383	4393	1098	1169	579	3096	146	1945	5022	
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59261 remote=/192.168.1.100:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+4472	4473	873	4535	5665	3450	4460	65	1236	646	3163	213	2012	5089	
+4540	4541	941	4603	5733	3518	4528	133	1304	714	3231	281	2080	5157	
+4605	4606	1006	4668	5798	3583	4593	198	1369	779	3296	346	2145	5222	
+4675	4676	1076	4738	5868	3653	4663	268	1439	849	3366	416	2215	5292	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59262 remote=/192.168.1.105:7890]
+4739	4740	32	4802	5932	3717	4727	332	1503	913	3430	480	2279	5356	
+null
+java.nio.channels.SocketChannel[unconnected]
+4805	4806	98	4868	5998	3783	4793	398	1569	979	3496	546	2345	5422	
+4873	4874	166	4936	6066	3851	4861	466	1637	1047	3564	614	2413	5490	
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59263 remote=/192.168.1.111:7890]
+4942	4943	235	5005	6135	3920	4930	535	1706	31	3633	683	2482	5559	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_14.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59268 remote=/192.168.1.111:7890]
+5009	5010	302	5072	6202	3987	4997	602	1773	37	3700	750	2549	5626	
+null
+java.nio.channels.SocketChannel[unconnected]
+5073	5074	366	5136	6266	4051	5061	666	1837	101	3764	814	2613	5690	
+5140	5141	433	5203	6333	4118	5128	733	1904	168	3831	881	2680	5757	
+5206	5207	499	5269	6399	4184	5194	799	1970	234	3897	947	2746	5823	
+5270	5271	563	5333	6463	4248	5258	863	2034	298	3961	1011	2810	5887	
+5339	5340	632	5402	6532	4317	5327	932	2103	367	4030	1080	2879	5956	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59264 remote=/192.168.1.101:7890]
+5403	5404	696	5466	6596	4381	5391	996	2167	431	4094	4	2943	6020	
+null
+java.nio.channels.SocketChannel[unconnected]
+5471	5472	764	5534	6664	4449	5459	1064	2235	499	4162	72	3011	6088	
+5538	5539	831	5601	6731	4516	5526	1131	2302	566	4229	139	3078	6155	
+5607	5608	900	5670	6800	4585	5595	1200	2371	635	4298	208	3147	6224	
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59265 remote=/192.168.1.100:7890]
+5670	5671	963	5733	6863	4648	5658	35	2434	698	4361	271	3210	6287	
+null
+java.nio.channels.SocketChannel[unconnected]
+5738	5739	1031	5801	6931	4716	5726	103	2502	766	4429	339	3278	6355	
+5804	5805	1097	5867	6997	4782	5792	169	2568	832	4495	405	3344	6421	
+5872	5873	1165	5935	7065	4850	5860	237	2636	900	4563	473	3412	6489	
+5939	5940	1232	6002	7132	4917	5927	304	2703	967	4630	540	3479	6556	
+6005	6006	1298	6068	7198	4983	5993	370	2769	1033	4696	606	3545	6622	
+6075	6076	1368	6138	7268	5053	6063	440	2839	1103	4766	676	3615	6692	
+6142	6143	1435	6205	7335	5120	6130	507	2906	1170	4833	743	3682	6759	
+6202	6203	1495	6265	7395	5180	6190	567	2966	1230	4893	803	3742	6819	
+6274	6275	1567	6337	7467	5252	6262	639	3038	1302	4965	875	3814	6891	
+6337	6338	1630	6400	7530	5315	6325	702	3101	1365	5028	938	3877	6954	
+6406	6407	1699	6469	7599	5384	6394	771	3170	1434	5097	1007	3946	7023	
+6471	6472	1764	6534	7664	5449	6459	836	3235	1499	5162	1072	4011	7088	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59270 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+6540	6541	1833	6603	7733	5518	6528	905	3304	1568	5231	65	4080	7157	
+6603	6604	1896	6666	7796	5581	6591	968	3367	1631	5294	128	4143	7220	
+6671	6672	1964	6734	7864	5649	6659	1036	3435	1699	5362	196	4211	7288	
+6737	6738	2030	6800	7930	5715	6725	1102	3501	1765	5428	262	4277	7354	
+6802	6803	2095	6865	7995	5780	6790	1167	3566	1830	5493	327	4342	7419	
+6870	6871	2163	6933	8063	5848	6858	1235	3634	1898	5561	395	4410	7487	
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59271 remote=/192.168.1.100:7890]
+6938	6939	2231	7001	8131	5916	6926	7	3702	1966	5629	463	4478	7555	
+null
+java.nio.channels.SocketChannel[unconnected]
+7000	7001	2293	7063	8193	5978	6988	69	3764	2028	5691	525	4540	7617	
+7069	7070	2362	7132	8262	6047	7057	138	3833	2097	5760	594	4609	7686	
+7139	7140	2432	7202	8332	6117	7127	208	3903	2167	5830	664	4679	7756	
+7203	7204	2496	7266	8396	6181	7191	272	3967	2231	5894	728	4743	7820	
+7270	7271	2563	7333	8463	6248	7258	339	4034	2298	5961	795	4810	7887	
+7340	7341	2633	7403	8533	6318	7328	409	4104	2368	6031	865	4880	7957	
+7408	7409	2701	7471	8601	6386	7396	477	4172	2436	6099	933	4948	8025	
+7471	7472	2764	7534	8664	6449	7459	540	4235	2499	6162	996	5011	8088	
+7541	7542	2834	7604	8734	6519	7529	610	4305	2569	6232	1066	5081	8158	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59273 remote=/192.168.1.101:7890]
+7604	7605	2897	7667	8797	6582	7592	673	4368	2632	6295	41	5144	8221	
+null
+java.nio.channels.SocketChannel[unconnected]
+7672	7673	2965	7735	8865	6650	7660	741	4436	2700	6363	109	5212	8289	
+7736	7737	3029	7799	8929	6714	7724	805	4500	2764	6427	173	5276	8353	
+7808	7809	3101	7871	9001	6786	7796	877	4572	2836	6499	245	5348	8425	
+7870	7871	3163	7933	9063	6848	7858	939	4634	2898	6561	307	5410	8487	
+7943	7944	3236	8006	9136	6921	7931	1012	4707	2971	6634	380	5483	8560	
+8003	8004	3296	8066	9196	6981	7991	1072	4767	3031	6694	440	5543	8620	
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59277 remote=/192.168.1.100:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+8072	8073	3365	8135	9265	7050	8060	62	4836	3100	6763	509	5612	8689	
+8141	8142	3434	8204	9334	7119	8129	131	4905	3169	6832	578	5681	8758	
+8207	8208	3500	8270	9400	7185	8195	197	4971	3235	6898	644	5747	8824	
+8275	8276	3568	8338	9468	7253	8263	265	5039	3303	6966	712	5815	8892	
+8340	8341	3633	8403	9533	7318	8328	330	5104	3368	7031	777	5880	8957	
+8406	8407	3699	8469	9599	7384	8394	396	5170	3434	7097	843	5946	9023	
+8475	8476	3768	8538	9668	7453	8463	465	5239	3503	7166	912	6015	9092	
+8538	8539	3831	8601	9731	7516	8526	528	5302	3566	7229	975	6078	9155	
+8603	8604	3896	8666	9796	7581	8591	593	5367	3631	7294	1040	6143	9220	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59278 remote=/192.168.1.101:7890]
+8670	8671	3963	8733	9863	7648	8658	660	5434	3698	7361	30	6210	9287	
+null
+java.nio.channels.SocketChannel[unconnected]
+8740	8741	4033	8803	9933	7718	8728	730	5504	3768	7431	100	6280	9357	
+8802	8803	4095	8865	9995	7780	8790	792	5566	3830	7493	162	6342	9419	
+8870	8871	4163	8933	10063	7848	8858	860	5634	3898	7561	230	6410	9487	
+8941	8942	4234	9004	10134	7919	8929	931	5705	3969	7632	301	6481	9558	
+9001	9002	4294	9064	10194	7979	8989	991	5765	4029	7692	361	6541	9618	
+9076	9077	4369	9139	10269	8054	9064	1066	5840	4104	7767	436	6616	9693	
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59280 remote=/192.168.1.100:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+9139	9140	4432	9202	10332	8117	9127	54	5903	4167	7830	499	6679	9756	
+9204	9205	4497	9267	10397	8182	9192	119	5968	4232	7895	564	6744	9822	
+9270	9271	4563	9333	10463	8248	9258	185	6034	4298	7961	630	6810	9887	
+9337	9338	4630	9400	10530	8315	9325	252	6101	4365	8028	697	6877	9954	
+9407	9408	4700	9470	10600	8385	9395	322	6171	4435	8098	767	6947	10024	
+9473	9474	4766	9536	10666	8451	9461	388	6237	4501	8164	833	7013	10090	
+9535	9536	4828	9598	10728	8513	9523	450	6299	4563	8226	895	7075	10152	
+9606	9607	4899	9669	10799	8584	9594	521	6370	4634	8297	966	7146	10223	
+9673	9674	4966	9736	10866	8651	9661	588	6437	4701	8364	1033	7213	10290	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59281 remote=/192.168.1.101:7890]
+9739	9740	5032	9802	10932	8717	9727	654	6503	4767	8430	25	7279	10356	
+null
+java.nio.channels.SocketChannel[unconnected]
+9802	9803	5095	9865	10995	8780	9790	717	6566	4830	8493	88	7342	10419	
+9872	9873	5165	9935	11065	8850	9860	787	6636	4900	8563	158	7412	10489	
+9937	9938	5230	10000	11130	8915	9925	852	6701	4965	8628	223	7477	10554	
+10005	10006	5298	10068	11198	8983	9993	920	6769	5033	8696	291	7545	10622	
+10068	10069	5361	10131	11261	9046	10056	983	6832	5096	8759	354	7608	10685	
+10137	10138	5430	10200	11330	9115	10125	1052	6901	5165	8828	423	7677	10754	
+10203	10204	5496	10266	11396	9181	10191	1118	6967	5231	8894	489	7743	10820	
+10273	10274	5566	10336	11466	9251	10261	1188	7037	5301	8964	559	7813	10890	
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59285 remote=/192.168.1.100:7890]
+Connection refused
+null
+java.nio.channels.SocketChannel[unconnected]
+10338	10339	43	10401	11531	9316	10326	56	7102	5366	9029	624	7878	10955	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59288 remote=/192.168.1.105:7890]
+10405	10406	51	10468	11598	9383	10393	123	7169	5433	9096	691	7945	11022	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59289 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+10472	10473	57	10535	11665	9450	10460	190	7236	5500	9163	758	8012	11089	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59290 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59291 remote=/192.168.1.105:7890]
+10539	10540	64	10602	11732	9517	10527	257	7303	5567	9230	825	8079	11156	
+null
+java.nio.channels.SocketChannel[unconnected]
+10609	10610	134	10672	11802	9587	10597	327	7373	5637	9300	895	8149	11226	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59292 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59293 remote=/192.168.1.105:7890]
+10675	10676	64	10738	11868	9653	10663	393	7439	5703	9366	961	8215	11292	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59294 remote=/192.168.1.105:7890]
+10740	10741	9	10803	11933	9718	10728	458	7504	5768	9431	1026	8280	11357	
+null
+java.nio.channels.SocketChannel[unconnected]
+10807	10808	76	10870	12000	9785	10795	525	7571	5835	9498	1093	8347	11424	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59295 remote=/192.168.1.105:7890]
+10874	10875	29	10937	12067	9852	10862	592	7638	5902	9565	1160	8414	11491	
+null
+java.nio.channels.SocketChannel[unconnected]
+10939	10940	94	11002	12132	9917	10927	657	7703	5967	9630	1225	8479	11556	
+11005	11006	160	11068	12198	9983	10993	723	7769	6033	9696	1291	8545	11622	
+11074	11075	229	11137	12267	10052	11062	792	7838	6102	9765	1360	8614	11691	
+11139	11140	294	11202	12332	10117	11127	857	7903	6167	9830	1425	8679	11756	
+11207	11208	362	11270	12400	10185	11195	925	7971	6235	9898	1493	8747	11824	
+11271	11272	426	11334	12464	10249	11259	989	8035	6299	9962	1557	8811	11888	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59297 remote=/192.168.1.105:7890]
+11336	11337	32	11399	12529	10314	11324	1054	8100	6364	10027	1622	8876	11953	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59298 remote=/192.168.1.105:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59287 remote=/192.168.1.100:7890]
+11405	11406	45	11468	12598	10383	11393	33	8169	6433	10096	1691	8945	12022	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59299 remote=/192.168.1.105:7890]
+11471	11472	41	11534	12664	10449	11459	99	8235	6499	10162	1757	9011	12088	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59301 remote=/192.168.1.105:7890]
+11539	11540	18	11602	12732	10517	11527	167	8303	6567	10230	1825	9079	12156	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59302 remote=/192.168.1.105:7890]
+11609	11610	33	11672	12802	10587	11597	237	8373	6637	10300	1895	9149	12226	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59303 remote=/192.168.1.105:7890]
+11671	11672	32	11734	12864	10649	11659	299	8435	6699	10362	1957	9211	12288	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59304 remote=/192.168.1.105:7890]
+11738	11739	44	11801	12931	10716	11726	366	8502	6766	10429	2024	9278	12355	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59305 remote=/192.168.1.105:7890]
+11806	11807	53	11869	12999	10784	11794	434	8570	6834	10497	2092	9346	12423	
+null
+java.nio.channels.SocketChannel[unconnected]
+11871	11872	118	11934	13064	10849	11859	499	8635	6899	10562	2157	9411	12488	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59306 remote=/192.168.1.105:7890]
+11937	11938	51	12000	13130	10915	11925	565	8701	6965	10628	2223	9477	12554	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59308 remote=/192.168.1.105:7890]
+12002	12003	24	12065	13195	10980	11990	630	8766	7030	10693	2288	9542	12619	
+null
+java.nio.channels.SocketChannel[unconnected]
+12074	12075	96	12137	13267	11052	12062	702	8838	7102	10765	2360	9614	12691	
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59309 remote=/192.168.1.105:7890]
+12139	12140	39	12202	13332	11117	12127	767	8903	7167	10830	2425	9679	12756	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59310 remote=/192.168.1.105:7890]
+12204	12205	40	12267	13397	11182	12192	832	8968	7232	10895	2490	9744	12821	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59311 remote=/192.168.1.105:7890]
+12271	12272	51	12334	13464	11249	12259	899	9035	7299	10962	2557	9811	12888	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59312 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59313 remote=/192.168.1.105:7890]
+12339	12340	62	12402	13532	11317	12327	967	9103	7367	11030	2625	9879	12956	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59242 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+12408	12409	131	12471	13601	48	12396	1036	9172	7436	11099	2694	9948	13025	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59314 remote=/192.168.1.105:7890]
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59300 remote=/192.168.1.100:7890]
+12472	12473	44	12535	13665	112	12460	1	9236	7500	11163	2758	10012	13089	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_08.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59316 remote=/192.168.1.105:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+12538	12539	36	12601	13731	178	12526	67	9302	7566	11229	2824	10078	13155	
+null
+java.nio.channels.SocketChannel[unconnected]
+12608	12609	106	12671	13801	248	12596	137	9372	7636	11299	2894	10148	13225	
+12727	12728	225	12790	13920	367	12715	256	9491	7755	11418	3013	10267	13344	
+12783	12784	281	12846	13976	423	12771	312	9547	7811	11474	3069	10323	13400	
+12854	12855	352	12917	14047	494	12842	383	9618	7882	11545	3140	10394	13471	
+12917	12918	415	12980	14110	557	12905	446	9681	7945	11608	3203	10457	13534	
+12979	12980	477	13042	14172	619	12967	508	9743	8007	11670	3265	10519	13596	
+13049	13050	547	13112	14242	689	13037	578	9813	8077	11740	3335	10589	13666	
+13113	13114	611	13176	14306	753	13101	642	9877	8141	11804	3399	10653	13730	
+13179	13180	677	13242	14372	819	13167	708	9943	8207	11870	3465	10719	13796	
+13248	13249	746	13311	14441	888	13236	777	10012	8276	11939	3534	10788	13865	
+13316	13317	814	13379	14509	956	13304	845	10080	8344	12007	3602	10856	13933	
+13384	13385	882	13447	14577	1024	13372	913	10148	8412	12075	3670	10924	14001	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59315 remote=/192.168.1.107:7890]
+13452	13453	950	13515	14645	21	13440	981	10216	8480	12143	3738	10992	14069	
+null
+java.nio.channels.SocketChannel[unconnected]
+13513	13514	1011	13576	14706	82	13501	1042	10277	8541	12204	3799	11053	14130	
+13583	13584	1081	13646	14776	152	13571	1112	10347	8611	12274	3869	11123	14200	
+13646	13647	1144	13709	14839	215	13634	1175	10410	8674	12337	3932	11186	14263	
+13713	13714	1211	13776	14906	282	13701	1242	10477	8741	12404	3999	11253	14330	
+13783	13784	1281	13846	14976	352	13771	1312	10547	8811	12474	4069	11323	14400	
+13850	13851	1348	13913	15043	419	13838	1379	10614	8878	12541	4136	11390	14467	
+13913	13914	1411	13976	15106	482	13901	1442	10677	8941	12604	4199	11453	14530	
+13985	13986	1483	14048	15178	554	13973	1514	10749	9013	12676	4271	11525	14602	
+14047	14048	1545	14110	15240	616	14035	1576	10811	9075	12738	4333	11587	14664	
+14114	14115	1612	14177	15307	683	14102	1643	10878	9142	12805	4400	11654	14731	
+14182	14183	1680	14245	15375	751	14170	1711	10946	9210	12873	4468	11722	14799	
+14245	14246	1743	14308	15438	814	14233	1774	11009	9273	12936	4531	11785	14862	
+14314	14315	1812	14377	15507	883	14302	1843	11078	9342	13005	4600	11854	14931	
+14384	14385	1882	14447	15577	953	14372	1913	11148	9412	13075	4670	11924	15001	
+14453	14454	1951	14516	15646	1022	14441	1982	11217	9481	13144	4739	11993	15070	
+14513	14514	2011	14576	15706	1082	14501	2042	11277	9541	13204	4799	12053	15130	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59260 remote=/192.168.1.108:7890]
+14580	14581	2078	14643	15773	1149	14568	2109	40	9608	13271	4866	12120	15197	
+null
+java.nio.channels.SocketChannel[unconnected]
+14650	14651	2148	14713	15843	1219	14638	2179	110	9678	13341	4936	12190	15267	
+14711	14712	2209	14774	15904	1280	14699	2240	171	9739	13402	4997	12251	15328	
+14783	14784	2281	14846	15976	1352	14771	2312	243	9811	13474	5069	12323	15400	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59320 remote=/192.168.1.108:7890]
+14848	14849	2346	14911	16041	1417	14836	2377	6	9876	13539	5134	12388	15465	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59321 remote=/192.168.1.108:7890]
+14915	14916	2413	14978	16108	1484	14903	2444	18	9943	13606	5201	12455	15532	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59286 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59322 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59323 remote=/192.168.1.101:7890]
+14982	14983	2480	15045	16175	1551	14970	2511	27	10010	13673	64	12522	15599	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59324 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+15044	15045	2542	15107	16237	1613	15032	2573	35	10072	13735	126	12584	15661	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59325 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59326 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+15115	15116	2613	15178	16308	1684	15103	2644	49	10143	13806	62	12655	15732	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59327 remote=/192.168.1.101:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59328 remote=/192.168.1.108:7890]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+15182	15183	2680	15245	16375	1751	15170	2711	60	10210	13873	61	12722	15799	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59329 remote=/192.168.1.101:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59330 remote=/192.168.1.108:7890]
+15245	15246	2743	15308	16438	1814	15233	2774	45	10273	13936	45	12785	15862	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59331 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59332 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59333 remote=/192.168.1.108:7890]
+15314	15315	2812	15377	16507	1883	15302	2843	60	10342	14005	53	12854	15931	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59334 remote=/192.168.1.101:7890]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+15382	15383	2880	15445	16575	1951	15370	2911	128	10410	14073	66	12922	15999	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59335 remote=/192.168.1.101:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59336 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+15453	15454	2951	15516	16646	2022	15441	2982	59	10481	14144	59	12993	16070	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59338 remote=/192.168.1.108:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59337 remote=/192.168.1.101:7890]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59339 remote=/192.168.1.101:7890]
+15515	15516	3013	15578	16708	2084	15503	3044	58	10543	14206	58	13055	16132	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59340 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+15584	15585	3082	15647	16777	2153	15572	3113	64	10612	14275	127	13124	16201	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59341 remote=/192.168.1.101:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59342 remote=/192.168.1.108:7890]
+15670	15671	3168	15733	16863	2239	15658	3199	52	10698	14361	52	13210	16287	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59343 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59344 remote=/192.168.1.101:7890]
+15715	15716	3213	15778	16908	2284	15703	3244	39	10743	14406	37	13255	16332	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+15781	15782	3279	15844	16974	2350	15769	3310	105	10809	14472	103	13321	16398	
+15847	15848	3345	15910	17040	2416	15835	3376	171	10875	14538	169	13387	16464	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59345 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59346 remote=/192.168.1.101:7890]
+15916	15917	3414	15979	17109	2485	15904	3445	27	10944	14607	27	13456	16533	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59347 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59348 remote=/192.168.1.101:7890]
+15988	15989	3486	16051	17181	2557	15976	3517	42	11016	14679	38	13528	16605	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59349 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59350 remote=/192.168.1.101:7890]
+16045	16046	3543	16108	17238	2614	16033	3574	23	11073	14736	21	13585	16662	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59351 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59352 remote=/192.168.1.101:7890]
+16121	16122	3619	16184	17314	2690	16109	3650	41	11149	14812	41	13661	16738	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59353 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59354 remote=/192.168.1.101:7890]
+16188	16189	3686	16251	17381	2757	16176	3717	50	11216	14879	49	13728	16805	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59356 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59355 remote=/192.168.1.101:7890]
+16248	16249	3746	16311	17441	2817	16236	3777	48	11276	14939	48	13788	16865	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59357 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59358 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+16312	16313	3810	16375	17505	2881	16300	3841	57	11340	15003	50	13852	16929	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59360 remote=/192.168.1.101:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59359 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+16382	16383	3880	16445	17575	2951	16370	3911	55	11410	15073	56	13922	16999	
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59361 remote=/192.168.1.101:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59362 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59363 remote=/192.168.1.101:7890]
+16446	16447	3944	16509	17639	3015	16434	3975	51	11474	15137	64	13986	17063	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59364 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59365 remote=/192.168.1.101:7890]
+16512	16513	4010	16575	17705	3081	16500	4041	60	11540	15203	3	14052	17129	
+null
+java.nio.channels.SocketChannel[unconnected]
+16584	16585	4082	16647	17777	3153	16572	4113	132	11612	15275	75	14124	17201	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59367 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+16654	16655	4152	16717	17847	3223	16642	4183	202	11682	15345	58	14194	17271	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59368 remote=/192.168.1.101:7890]
+16722	16723	4220	16785	17915	3291	16710	4251	270	11750	15413	22	14262	17339	
+null
+java.nio.channels.SocketChannel[unconnected]
+16778	16779	4276	16841	17971	3347	16766	4307	326	11806	15469	78	14318	17395	
+16850	16851	4348	16913	18043	3419	16838	4379	398	11878	15541	150	14390	17467	
+16915	16916	4413	16978	18108	3484	16903	4444	463	11943	15606	215	14455	17532	
+16982	16983	4480	17045	18175	3551	16970	4511	530	12010	15673	282	14522	17599	
+17046	17047	4544	17109	18239	3615	17034	4575	594	12074	15737	346	14586	17663	
+17117	17118	4615	17180	18310	3686	17105	4646	665	12145	15808	417	14657	17734	
+17182	17183	4680	17245	18375	3751	17170	4711	730	12210	15873	482	14722	17799	
+17249	17250	4747	17312	18442	3818	17237	4778	797	12277	15940	549	14789	17866	
+17314	17315	4812	17377	18507	3883	17302	4843	862	12342	16005	614	14854	17931	
+17384	17385	4882	17447	18577	3953	17372	4913	932	12412	16075	684	14924	18001	
+17459	17460	4957	17522	18652	4028	17447	4988	1007	12487	16150	759	14999	18076	
+17519	17520	5017	17582	18712	4088	17507	5048	1067	12547	16210	819	15059	18136	
+17588	17589	5086	17651	18781	4157	17576	5117	1136	12616	16279	888	15128	18205	
+17670	17671	5168	17733	18863	4239	17658	5199	1218	12698	16361	970	15210	18287	
+17719	17720	5217	17782	18912	4288	17707	5248	1267	12747	16410	1019	15259	18336	
+17779	17780	5277	17842	18972	4348	17767	5308	1327	12807	16470	1079	15319	18396	
+17850	17851	5348	17913	19043	4419	17838	5379	1398	12878	16541	1150	15390	18467	
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59317 remote=/192.168.1.100:7890]
+17915	17916	5413	17978	19108	4484	17903	19	1463	12943	16606	1215	15455	18532	
+null
+java.nio.channels.SocketChannel[unconnected]
+17982	17983	5480	18045	19175	4551	17970	86	1530	13010	16673	1282	15522	18599	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59369 remote=/192.168.1.101:7890]
+18048	18049	5546	18111	19241	4617	18036	152	1596	13076	16739	8	15588	18665	
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59370 remote=/192.168.1.100:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+18122	18123	5620	18185	19315	4691	18110	37	1670	13150	16813	82	15662	18739	
+null
+java.nio.channels.SocketChannel[unconnected]
+18182	18183	5680	18245	19375	4751	18170	97	1730	13210	16873	142	15722	18799	
+18250	18251	5748	18313	19443	4819	18238	165	1798	13278	16941	210	15790	18867	
+18314	18315	5812	18377	19507	4883	18302	229	1862	13342	17005	274	15854	18931	
+18383	18384	5881	18446	19576	4952	18371	298	1931	13411	17074	343	15923	19000	
+18450	18451	5948	18513	19643	5019	18438	365	1998	13478	17141	410	15990	19067	
+18517	18518	6015	18580	19710	5086	18505	432	2065	13545	17208	477	16057	19134	
+18585	18586	6083	18648	19778	5154	18573	500	2133	13613	17276	545	16125	19202	
+18648	18649	6146	18711	19841	5217	18636	563	2196	13676	17339	608	16188	19265	
+18715	18716	6213	18778	19908	5284	18703	630	2263	13743	17406	675	16255	19332	
+18788	18789	6286	18851	19981	5357	18776	703	2336	13816	17479	748	16328	19405	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59319 remote=/192.168.1.107:7890]
+18850	18851	6348	18913	20043	37	18838	765	2398	13878	17541	810	16390	19467	
+null
+java.nio.channels.SocketChannel[unconnected]
+18913	18914	6411	18976	20106	100	18901	828	2461	13941	17604	873	16453	19530	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59373 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59374 remote=/192.168.1.107:7890]
+18982	18983	6480	19045	20175	68	18970	897	2530	14010	17673	942	16522	19599	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59375 remote=/192.168.1.107:7890]
+19051	19052	6549	19114	20244	11	19039	966	2599	14079	17742	1011	16591	19668	
+null
+java.nio.channels.SocketChannel[unconnected]
+19116	19117	6614	19179	20309	76	19104	1031	2664	14144	17807	1076	16656	19733	
+19183	19184	6681	19246	20376	143	19171	1098	2731	14211	17874	1143	16723	19800	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59376 remote=/192.168.1.107:7890]
+19247	19248	6745	19310	20440	18	19235	1162	2795	14275	17938	1207	16787	19864	
+null
+java.nio.channels.SocketChannel[unconnected]
+19316	19317	6814	19379	20509	87	19304	1231	2864	14344	18007	1276	16856	19933	
+19384	19385	6882	19447	20577	155	19372	1299	2932	14412	18075	1344	16924	20001	
+19449	19450	6947	19512	20642	220	19437	1364	2997	14477	18140	1409	16989	20066	
+19516	19517	7014	19579	20709	287	19504	1431	3064	14544	18207	1476	17056	20133	
+19579	19580	7077	19642	20772	350	19567	1494	3127	14607	18270	1539	17119	20196	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59377 remote=/192.168.1.107:7890]
+19650	19651	7148	19713	20843	7	19638	1565	3198	14678	18341	1610	17190	20267	
+null
+java.nio.channels.SocketChannel[unconnected]
+19716	19717	7214	19779	20909	73	19704	1631	3264	14744	18407	1676	17256	20333	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59378 remote=/192.168.1.107:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59224 remote=/192.168.1.102:7890]
+19783	19784	7281	22	20976	23	19771	1698	3331	14811	18474	1743	17323	20400	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+19850	19851	7348	89	21043	90	19838	1765	3398	14878	18541	1810	17390	20467	
+19919	19920	7417	158	21112	159	19907	1834	3467	14947	18610	1879	17459	20536	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59379 remote=/192.168.1.107:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59380 remote=/192.168.1.102:7890]
+19982	19983	7480	28	21175	28	19970	1897	3530	15010	18673	1942	17522	20599	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59382 remote=/192.168.1.107:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59383 remote=/192.168.1.102:7890]
+20049	20050	7547	35	21242	35	20037	1964	3597	15077	18740	2009	17589	20666	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59384 remote=/192.168.1.107:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59385 remote=/192.168.1.102:7890]
+20118	20119	7616	44	21311	47	20106	2033	3666	15146	18809	2078	17658	20735	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59386 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59387 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+20181	20182	7679	49	21374	54	20169	2096	3729	15209	18872	2141	17721	20798	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59388 remote=/192.168.1.107:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59389 remote=/192.168.1.102:7890]
+20247	20248	7745	17	21440	33	20235	2162	3795	15275	18938	2207	17787	20864	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59390 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+20317	20318	7815	87	21510	43	20305	2232	3865	15345	19008	2277	17857	20934	
+null
+java.nio.channels.SocketChannel[unconnected]
+20385	20386	7883	155	21578	111	20373	2300	3933	15413	19076	2345	17925	21002	
+20450	20451	7948	220	21643	176	20438	2365	3998	15478	19141	2410	17990	21067	
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59391 remote=/192.168.1.102:7890]
+20513	20514	8011	38	21706	239	20501	2428	4061	15541	19204	2473	18053	21130	
+null
+java.nio.channels.SocketChannel[unconnected]
+20585	20586	8083	110	21778	311	20573	2500	4133	15613	19276	2545	18125	21202	
+20652	20653	8150	177	21845	378	20640	2567	4200	15680	19343	2612	18192	21269	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59392 remote=/192.168.1.107:7890]
+20716	20717	8214	241	21909	23	20704	2631	4264	15744	19407	2676	18256	21333	
+null
+java.nio.channels.SocketChannel[unconnected]
+20781	20782	8279	306	21974	88	20769	2696	4329	15809	19472	2741	18321	21398	
+20850	20851	8348	375	22043	157	20838	2765	4398	15878	19541	2810	18390	21467	
+20913	20914	8411	438	22106	220	20901	2828	4461	15941	19604	2873	18453	21530	
+20984	20985	8482	509	22177	291	20972	2899	4532	16012	19675	2944	18524	21601	
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59393 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+21048	21049	8546	59	22241	355	21036	2963	4596	16076	19739	3008	18588	21665	
+21116	21117	8614	127	22309	423	21104	3031	4664	16144	19807	3076	18656	21733	
+21184	21185	8682	195	22377	491	21172	3099	4732	16212	19875	3144	18724	21801	
+21247	21248	8745	258	22440	554	21235	3162	4795	16275	19938	3207	18787	21864	
+21315	21316	8813	326	22508	622	21303	3230	4863	16343	20006	3275	18855	21932	
+21384	21385	8882	395	22577	691	21372	3299	4932	16412	20075	3344	18924	22001	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59394 remote=/192.168.1.107:7890]
+21451	21452	8949	462	22644	45	21439	3366	4999	16479	20142	3411	18991	22068	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59395 remote=/192.168.1.102:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59396 remote=/192.168.1.107:7890]
+21514	21515	9012	12	22707	6	21502	3429	5062	16542	20205	3474	19054	22131	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59397 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+21583	21584	9081	24	22776	75	21571	3498	5131	16611	20274	3543	19123	22200	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59398 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59399 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59400 remote=/192.168.1.107:7890]
+21647	21648	9145	31	22840	62	21635	3562	5195	16675	20338	3607	19187	22264	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59401 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+21713	21714	9211	38	22906	128	21701	3628	5261	16741	20404	3673	19253	22330	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59402 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59403 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+21779	21780	9277	47	22972	58	21767	3694	5327	16807	20470	3739	19319	22396	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59404 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59405 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59406 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+21850	21851	9348	57	23043	64	21838	3765	5398	16878	20541	3810	19390	22467	
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59407 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59408 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59409 remote=/192.168.1.102:7890]
+21920	21921	9418	65	23113	16	21908	3835	5468	16948	20611	3880	19460	22537	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59410 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59411 remote=/192.168.1.102:7890]
+21983	21984	9481	12	23176	23	21971	3898	5531	17011	20674	3943	19523	22600	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+22049	22050	9547	78	23242	89	22037	3964	5597	17077	20740	4009	19589	22666	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59412 remote=/192.168.1.107:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59413 remote=/192.168.1.102:7890]
+22117	22118	9615	45	23310	54	22105	4032	5665	17145	20808	4077	19657	22734	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59414 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59415 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59416 remote=/192.168.1.107:7890]
+22181	22182	9679	31	23374	58	22169	4096	5729	17209	20872	4141	19721	22798	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59417 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+22245	22246	9743	33	23438	122	22233	4160	5793	17273	20936	4205	19785	22862	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59418 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59419 remote=/192.168.1.102:7890]
+22314	22315	9812	41	23507	49	22302	4229	5862	17342	21005	4274	19854	22931	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59420 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59421 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+22386	22387	9884	52	23579	60	22374	4301	5934	17414	21077	4346	19926	23003	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59422 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59424 remote=/192.168.1.107:7890]
+22453	22454	9951	119	23646	66	22441	4368	6001	17481	21144	4413	19993	23070	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59425 remote=/192.168.1.107:7890]
+22515	22516	10013	181	23708	11	22503	4430	6063	17543	21206	4475	20055	23132	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59426 remote=/192.168.1.107:7890]
+22581	22582	10079	247	23774	13	22569	4496	6129	17609	21272	4541	20121	23198	
+null
+java.nio.channels.SocketChannel[unconnected]
+22651	22652	10149	317	23844	83	22639	4566	6199	17679	21342	4611	20191	23268	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59427 remote=/192.168.1.107:7890]
+22717	22718	10215	383	23910	25	22705	4632	6265	17745	21408	4677	20257	23334	
+null
+java.nio.channels.SocketChannel[unconnected]
+22779	22780	10277	445	23972	87	22767	4694	6327	17807	21470	4739	20319	23396	
+22848	22849	10346	514	24041	156	22836	4763	6396	17876	21539	4808	20388	23465	
+22922	22923	10420	588	24115	230	22910	4837	6470	17950	21613	4882	20462	23539	
+22985	22986	10483	651	24178	293	22973	4900	6533	18013	21676	4945	20525	23602	
+23047	23048	10545	713	24240	355	23035	4962	6595	18075	21738	5007	20587	23664	
+23114	23115	10612	780	24307	422	23102	5029	6662	18142	21805	5074	20654	23731	
+23186	23187	10684	852	24379	494	23174	5101	6734	18214	21877	5146	20726	23803	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59371 remote=/192.168.1.101:7890]
+23248	23249	10746	914	24441	556	23236	5163	6796	18276	21939	3	20788	23865	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59429 remote=/192.168.1.101:7890]
+23317	23318	10815	983	24510	625	23305	5232	6865	18345	22008	14	20857	23934	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59430 remote=/192.168.1.101:7890]
+23381	23382	10879	1047	24574	689	23369	5296	6929	18409	22072	22	20921	23998	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59431 remote=/192.168.1.101:7890]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59423 remote=/192.168.1.102:7890]
+23447	23448	10945	23	24640	755	23435	5362	6995	18475	22138	30	20987	24064	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59432 remote=/192.168.1.101:7890]
+23518	23519	11016	94	24711	826	23506	5433	7066	18546	22209	43	21058	24135	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59434 remote=/192.168.1.101:7890]
+23582	23583	11080	158	24775	890	23570	5497	7130	18610	22273	48	21122	24199	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59435 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+23649	23650	11147	225	24842	957	23637	5564	7197	18677	22340	57	21189	24266	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59436 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+23713	23714	11211	289	24906	1021	23701	5628	7261	18741	22404	62	21253	24330	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59437 remote=/192.168.1.101:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59366 remote=/192.168.1.108:7890]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59438 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59439 remote=/192.168.1.101:7890]
+23783	23784	11281	359	24976	1091	23771	5698	64	18811	22474	65	21323	24400	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59428 remote=/192.168.1.107:7890]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+23845	23846	11343	421	25038	55	23833	5760	126	18873	22536	127	21385	24462	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59441 remote=/192.168.1.101:7890]
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59440 remote=/192.168.1.108:7890]
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59443 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59444 remote=/192.168.1.101:7890]
+23916	23917	11414	492	25109	126	23904	5831	62	18944	22607	62	21456	24533	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59445 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59446 remote=/192.168.1.101:7890]
+23979	23980	11477	555	25172	189	23967	5894	8	19007	22670	8	21519	24596	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59447 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59448 remote=/192.168.1.101:7890]
+24048	24049	11546	624	25241	258	24036	5963	22	19076	22739	15	21588	24665	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59449 remote=/192.168.1.108:7890]
+24115	24116	11613	691	25308	325	24103	6030	8	19143	22806	82	21655	24732	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59450 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59451 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+24183	24184	11681	759	25376	393	24171	6098	17	19211	22874	56	21723	24800	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59452 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59453 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59454 remote=/192.168.1.101:7890]
+24251	24252	11749	827	25444	461	24239	6166	26	19279	22942	62	21791	24868	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59455 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59456 remote=/192.168.1.101:7890]
+24318	24319	11816	894	25511	528	24306	6233	36	19346	23009	5	21858	24935	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59457 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59458 remote=/192.168.1.101:7890]
+24379	24380	11877	955	25572	589	24367	6294	38	19407	23070	9	21919	24996	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59459 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59460 remote=/192.168.1.101:7890]
+24452	24453	11950	1028	25645	662	24440	6367	41	19480	23143	8	21992	25069	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59461 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59462 remote=/192.168.1.101:7890]
+24512	24513	12010	1088	25705	722	24500	6427	22	19540	23203	4	22052	25129	
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59433 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59463 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59464 remote=/192.168.1.101:7890]
+24583	24584	12081	43	25776	793	24571	6498	28	19611	23274	16	22123	25200	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59465 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59466 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59467 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+24646	24647	12144	51	25839	856	24634	6561	25	19674	23337	21	22186	25263	
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59468 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59469 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59470 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+24718	24719	12216	68	25911	928	24706	6633	41	19746	23409	34	22258	25335	
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59471 remote=/192.168.1.102:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59472 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59473 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+24784	24785	12282	56	25977	994	24772	6699	48	19812	23475	39	22324	25401	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59475 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59476 remote=/192.168.1.101:7890]
+24848	24849	12346	120	26041	1058	24836	6763	52	19876	23539	37	22388	25465	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59477 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59478 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59479 remote=/192.168.1.108:7890]
+24918	24919	12416	190	26111	1128	24906	6833	64	19946	23609	43	22458	25535	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59481 remote=/192.168.1.108:7890]
+24981	24982	12479	253	26174	1191	24969	6896	5	20009	23672	106	22521	25598	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59482 remote=/192.168.1.108:7890]
+25047	25048	12545	319	26240	1257	25035	6962	14	20075	23738	172	22587	25664	
+null
+java.nio.channels.SocketChannel[unconnected]
+25116	25117	12614	388	26309	1326	25104	7031	83	20144	23807	241	22656	25733	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59483 remote=/192.168.1.108:7890]
+25180	25181	12678	452	26373	1390	25168	7095	43	20208	23871	305	22720	25797	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59484 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+25252	25253	12750	524	26445	1462	25240	7167	58	20280	23943	377	22792	25869	
+25316	25317	12814	588	26509	1526	25304	7231	122	20344	24007	441	22856	25933	
+25381	25382	12879	653	26574	1591	25369	7296	187	20409	24072	506	22921	25998	
+25452	25453	12950	724	26645	1663	25441	7368	259	20481	24144	578	22993	26070	
+25512	25513	13010	784	26705	1722	25500	7427	318	20540	24203	637	23052	26129	
+25586	25587	13084	858	26779	1796	25574	7501	392	20614	24277	711	23126	26203	
+25646	25647	13144	918	26839	1856	25634	7561	452	20674	24337	771	23186	26263	
+25720	25721	13218	992	26913	1930	25708	7635	526	20748	24411	845	23260	26337	
+25780	25781	13278	1052	26973	1990	25768	7695	586	20808	24471	905	23320	26397	
+trying to connect: dsp_09.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59474 remote=/192.168.1.102:7890]
+25852	25853	13350	29	27045	2062	25840	7767	658	20880	24543	977	23392	26469	
+null
+java.nio.channels.SocketChannel[unconnected]
+25913	25914	13411	90	27106	2123	25901	7828	719	20941	24604	1038	23453	26530	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59442 remote=/192.168.1.107:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59480 remote=/192.168.1.101:7890]
+25985	25986	13483	162	27178	34	25973	7900	791	21013	24676	26	23525	26602	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+26046	26047	13544	223	27239	95	26034	7961	852	21074	24737	87	23586	26663	
+26116	26117	13614	293	27309	165	26104	8031	922	21144	24807	157	23656	26733	
+26180	26181	13678	357	27373	229	26168	8095	986	21208	24871	221	23720	26797	
+26248	26249	13746	425	27441	297	26236	8163	1054	21276	24939	289	23788	26865	
+26318	26319	13816	495	27511	367	26306	8233	1124	21346	25009	359	23858	26935	
+26380	26381	13878	557	27573	429	26368	8295	1186	21408	25071	421	23920	26997	
+26448	26449	13946	625	27641	497	26436	8363	1254	21476	25139	489	23988	27065	
+26517	26518	14015	694	27710	566	26505	8432	1323	21545	25208	558	24057	27134	
+26585	26586	14083	762	27778	634	26573	8500	1391	21613	25276	626	24125	27202	
+26650	26651	14148	827	27843	699	26638	8565	1456	21678	25341	691	24190	27267	
+26714	26715	14212	891	27907	763	26702	8629	1520	21742	25405	755	24254	27331	
+26784	26785	14282	961	27977	833	26772	8699	1590	21812	25475	825	24324	27401	
+26849	26850	14347	1026	28042	898	26837	8764	1655	21877	25540	890	24389	27466	
+26912	26913	14410	1089	28105	961	26900	8827	1718	21940	25603	953	24452	27529	
+26981	26982	14479	1158	28174	1030	26969	8896	1787	22009	25672	1022	24521	27598	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59487 remote=/192.168.1.107:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59488 remote=/192.168.1.101:7890]
+27052	27053	14550	1229	28245	26	27040	8967	1858	22080	25743	25	24592	27669	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59491 remote=/192.168.1.107:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59490 remote=/192.168.1.101:7890]
+27117	27118	14615	1294	28310	11	27105	9032	1923	22145	25808	10	24657	27734	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59493 remote=/192.168.1.101:7890]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59492 remote=/192.168.1.107:7890]
+27181	27182	14679	1358	28374	14	27169	9096	1987	22209	25872	16	24721	27798	
+null
+null
+java.nio.channels.SocketChannel[unconnected]
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59494 remote=/192.168.1.107:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59495 remote=/192.168.1.101:7890]
+27248	27249	14746	1425	28441	17	27236	9163	2054	22276	25939	10	24788	27865	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59496 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+27318	27319	14816	1495	28511	29	27306	9233	2124	22346	26009	80	24858	27935	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59498 remote=/192.168.1.107:7890]
+27386	27387	14884	1563	28579	41	27374	9301	2192	22414	26077	148	24926	28003	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59499 remote=/192.168.1.107:7890]
+27450	27451	14948	1627	28643	20	27438	9365	2256	22478	26141	212	24990	28067	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59500 remote=/192.168.1.107:7890]
+27514	27515	15012	1691	28707	22	27502	9429	2320	22542	26205	276	25054	28131	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59501 remote=/192.168.1.107:7890]
+27585	27586	15083	1762	28778	33	27573	9500	2391	22613	26276	347	25125	28202	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59502 remote=/192.168.1.107:7890]
+27649	27650	15147	1826	28842	38	27637	9564	2455	22677	26340	411	25189	28266	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59503 remote=/192.168.1.107:7890]
+27719	27720	15217	1896	28912	53	27707	9634	2525	22747	26410	481	25259	28336	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59504 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+27783	27784	15281	1960	28976	55	27771	9698	2589	22811	26474	545	25323	28400	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59505 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59506 remote=/192.168.1.107:7890]
+27851	27852	15349	2028	29044	67	27839	9766	2657	22879	26542	613	25391	28468	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59507 remote=/192.168.1.107:7890]
+27921	27922	15419	2098	29114	19	27909	9836	2727	22949	26612	683	25461	28538	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59508 remote=/192.168.1.107:7890]
+28011	28012	15509	2188	29204	50	27999	9926	2817	23039	26702	773	25551	28628	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59509 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59510 remote=/192.168.1.107:7890]
+28111	28112	15609	2288	29304	85	28099	10026	2917	23139	26802	873	25651	28728	
+28120	28121	15618	2297	29313	94	28108	10035	2926	23148	26811	882	25660	28737	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59512 remote=/192.168.1.107:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+28198	28199	15696	2375	29391	57	28186	10113	3004	23226	26889	960	25738	28815	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59513 remote=/192.168.1.107:7890]
+28256	28257	15754	2433	29449	52	28244	10171	3062	23284	26947	1018	25796	28873	
+null
+java.nio.channels.SocketChannel[unconnected]
+28317	28318	15815	2494	29510	113	28305	10232	3123	23345	27008	1079	25857	28934	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59485 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59497 remote=/192.168.1.101:7890]
+28386	28387	15884	2563	29579	182	28374	10301	43	23414	27077	28	25926	29003	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+28454	28455	15952	2631	29647	250	28442	10369	111	23482	27145	96	25994	29071	
+28522	28523	16020	2699	29715	318	28510	10437	179	23550	27213	164	26062	29139	
+28583	28584	16081	2760	29776	379	28571	10498	240	23611	27274	225	26123	29200	
+28653	28654	16151	2830	29846	449	28641	10568	310	23681	27344	295	26193	29270	
+28725	28726	16223	2902	29918	521	28713	10640	382	23753	27416	367	26265	29342	
+28787	28788	16285	2964	29980	583	28775	10702	444	23815	27478	429	26327	29404	
+28852	28853	16350	3029	30045	648	28840	10767	509	23880	27543	494	26392	29469	
+28921	28922	16419	3098	30114	717	28909	10836	578	23949	27612	563	26461	29538	
+28989	28990	16487	3166	30182	785	28977	10904	646	24017	27680	631	26529	29606	
+29054	29055	16552	3231	30247	850	29042	10969	711	24082	27745	696	26594	29671	
+29121	29122	16619	3298	30314	917	29109	11036	778	24149	27812	763	26661	29738	
+29187	29188	16685	3364	30380	983	29175	11102	844	24215	27878	829	26727	29804	
+29256	29257	16754	3433	30449	1052	29244	11171	913	24284	27947	898	26796	29873	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59514 remote=/192.168.1.107:7890]
+29322	29323	16820	3499	30515	23	29310	11237	979	24350	28013	964	26862	29939	
+null
+java.nio.channels.SocketChannel[unconnected]
+29389	29390	16887	3566	30582	90	29377	11304	1046	24417	28080	1031	26929	30006	
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59515 remote=/192.168.1.108:7890]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59516 remote=/192.168.1.101:7890]
+29456	29457	16954	3633	30649	157	29444	11371	30	24484	28147	5	26996	30073	
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59519 remote=/192.168.1.108:7890]
+29524	29525	17022	3701	30717	225	29512	11439	19	24552	28215	73	27064	30141	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59521 remote=/192.168.1.108:7890]
+29590	29591	17088	3767	30783	291	29578	11505	25	24618	28281	139	27130	30207	
+null
+java.nio.channels.SocketChannel[unconnected]
+29655	29656	17153	3832	30848	356	29643	11570	90	24683	28346	204	27195	30272	
+29722	29723	17220	3899	30915	423	29710	11637	157	24750	28413	271	27262	30339	
+29790	29791	17288	3967	30983	491	29778	11705	225	24818	28481	339	27330	30407	
+29854	29855	17352	4031	31047	555	29842	11769	289	24882	28545	403	27394	30471	
+29923	29924	17421	4100	31116	624	29911	11838	358	24951	28614	472	27463	30540	
+29988	29989	17486	4165	31181	689	29976	11903	423	25016	28679	537	27528	30605	
+30057	30058	17555	4234	31250	758	30045	11972	492	25085	28748	606	27597	30674	
+30122	30123	17620	4299	31315	823	30110	12037	557	25150	28813	671	27662	30739	
+30186	30187	17684	4363	31379	887	30174	12101	621	25214	28877	735	27726	30803	
+30258	30259	17756	4435	31451	959	30246	12173	693	25286	28949	807	27798	30875	
+30321	30322	17819	4498	31514	1022	30309	12236	756	25349	29012	870	27861	30938	
+30388	30389	17886	4565	31581	1089	30376	12303	823	25416	29079	937	27928	31005	
+trying to connect: dsp_10.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59518 remote=/192.168.1.107:7890]
+30454	30455	17952	4631	31647	49	30442	12369	889	25482	29145	1003	27994	31071	
+null
+java.nio.channels.SocketChannel[unconnected]
+30523	30524	18021	4700	31716	118	30511	12438	958	25551	29214	1072	28063	31140	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59520 remote=/192.168.1.101:7890]
+30587	30588	18085	4764	31780	182	30575	12502	1022	25615	29278	49	28127	31204	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59524 remote=/192.168.1.101:7890]
+trying to connect: dsp_06.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59522 remote=/192.168.1.108:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+30650	30651	18148	4827	31843	245	30638	12565	6	25678	29341	52	28190	31267	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59525 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+null
+java.nio.channels.SocketChannel[unconnected]
+30721	30722	18219	4898	31914	316	30709	12636	77	25749	29412	53	28261	31338	
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59527 remote=/192.168.1.101:7890]
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59528 remote=/192.168.1.101:7890]
+30795	30796	18293	4972	31988	390	30783	12710	151	25823	29486	68	28335	31412	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59529 remote=/192.168.1.101:7890]
+30850	30851	18348	5027	32043	445	30838	12765	206	25878	29541	2	28390	31467	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59530 remote=/192.168.1.101:7890]
+30928	30929	18426	5105	32121	523	30916	12843	284	25956	29619	19	28468	31545	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59531 remote=/192.168.1.101:7890]
+30988	30989	18486	5165	32181	583	30976	12903	344	26016	29679	20	28528	31605	
+null
+java.nio.channels.SocketChannel[unconnected]
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+socket: java.nio.channels.SocketChannel[connected local=/192.168.1.114:59532 remote=/192.168.1.101:7890]
+31055	31056	18553	5232	32248	650	31043	12970	411	26083	29746	24	28595	31672	

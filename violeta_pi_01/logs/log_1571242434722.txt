@@ -1,0 +1,2283 @@
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local: Name or service not known
+dsp_04.local: Name or service not known
+dsp_05.local: Name or service not known
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local: Name or service not known
+dsp_05.local: Name or service not known
+dsp_04.local: Name or service not known
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+dsp_05.local
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+dsp_03.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_04.local
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_03.local
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+dsp_03.local
+dsp_04.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_04.local:7890
+dsp_04.local
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_04.local:7890
+dsp_04.local
+trying to connect: dsp_03.local:7890
+dsp_03.local
+trying to connect: dsp_05.local:7890
+dsp_05.local
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890

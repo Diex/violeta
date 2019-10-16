@@ -1,0 +1,9 @@
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_05.local:7890
+Connected to OPC server
+Connected to OPC server
+socket: Socket[addr=/192.168.1.116,port=7890,localport=60068]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.111,port=7890,localport=55560]
+socket: Socket[addr=/192.168.1.103,port=7890,localport=33750]

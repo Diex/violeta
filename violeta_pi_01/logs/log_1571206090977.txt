@@ -1,0 +1,42 @@
+trying to connect: dsp_11.local:7890
+trying to connect: dsp_02.local:7890
+trying to connect: dsp_08.local:7890
+trying to connect: dsp_01.local:7890
+trying to connect: dsp_06.local:7890
+trying to connect: dsp_10.local:7890
+trying to connect: dsp_12.local:7890
+trying to connect: dsp_03.local:7890
+trying to connect: dsp_13.local:7890
+trying to connect: dsp_14.local:7890
+trying to connect: dsp_09.local:7890
+trying to connect: dsp_05.local:7890
+trying to connect: dsp_04.local:7890
+trying to connect: dsp_07.local:7890
+Connected to OPC server
+Connected to OPC server
+socket: Socket[addr=/192.168.1.103,port=7890,localport=61416]
+socket: Socket[addr=/192.168.1.104,port=7890,localport=61415]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.110,port=7890,localport=61417]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.101,port=7890,localport=61418]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.102,port=7890,localport=61420]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.100,port=7890,localport=61419]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.111,port=7890,localport=61421]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.109,port=7890,localport=61422]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.106,port=7890,localport=61423]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.113,port=7890,localport=61424]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.107,port=7890,localport=61425]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.108,port=7890,localport=61426]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.105,port=7890,localport=61427]
+Connected to OPC server
+socket: Socket[addr=/192.168.1.112,port=7890,localport=61428]
