@@ -1,3 +1,7 @@
+import java.nio.*;
+import java.nio.channels.SocketChannel;
+import java.io.BufferedOutputStream;
+//import java.net.SocketOutputStream;
 class OpcDevice implements Runnable {
 
   Thread thread;
@@ -6,9 +10,10 @@ class OpcDevice implements Runnable {
   private String resolved;
   private int port;
 
-  Socket socket;
-  OutputStream output, pending;
 
+  //OutputStream output, pending;
+  BufferedOutputStream output, pending;
+  //SocketOutputStream output, pending;
   byte[] packetData;
 
 
@@ -20,6 +25,13 @@ class OpcDevice implements Runnable {
     this.parent = parent;  
     this.host = host;
     this.port = port;
+
+
+    //try{
+    //  socket = SocketChannel.open();
+    //}catch (IOException e){
+    //  e.printStackTrace();
+    //}
   }
 
 
@@ -29,48 +41,47 @@ class OpcDevice implements Runnable {
       // Thread tests server connection periodically, attempts reconnection.
       // Important for OPC arrays; faster startup, client continues
       // to run smoothly when mobile servers go in and out of range.
-      
-      
-        if (canrun) {
-          keepConnected();
-          writePixelsThreaded();              
-          canrun = false;
-          pmillis = millis();
-        }else{
-        }
-      
-      try{
-        this.thread.sleep(50);
-      }catch (Exception e){
-      
+
+      keepConnected();
+
+      if (canrun) {          
+        writePixelsThreaded();              
+        canrun = false;
+        pmillis = millis();
+      } else {
       }
-      
+
+      try {
+        this.thread.sleep(50);
+      }
+      catch (Exception e) {
+      }
     }
   }
-  
-  SocketChannel socket;
 
+  //SocketChannel socket;
+  Socket socket;
   boolean keepConnected() {
 
-      if (this.output == null) { // No OPC connection?
+    if (this.output == null) { // No OPC connection?
+      //if(socket != null && !socket.isConnected()){
       try {              // Make one!
-        if (debug) println("trying to connect: " + port + ":"+ host);
-        //socket = new Socket();
-        socket = SocketChannel.open();
 
+        socket = new Socket();
 
- 
+        //println(socket);
+        if (debug) println("trying to connect: " + host + ":"+ port);
         if (resolved == null) {
           resolved = InetAddress.getByName(host).getCanonicalHostName();
         }        
 
-        socket.connect(new InetSocketAddress("http://jenkov.com", 80));
-  
-        //socket.connect(new InetSocketAddress(resolved, port), 100);        
-        //socket.setTcpNoDelay(true);
-        
-        pending = socket.getOutputStream(); // Avoid race condition...
+        socket.connect(new InetSocketAddress(resolved, port));
 
+        //socket.connect(new InetSocketAddress(resolved, port), 100);        
+        socket.setTcpNoDelay(true);
+
+        pending =  new BufferedOutputStream(socket.getOutputStream()); // Avoid race condition...
+        //pending =  socket.getOutputStream(); // Avoid race condition...
         if (debug)  println("Connected to OPC server");
         if (debug) System.out.println("socket: " +socket);
         output = pending;                   // rest of code given access.
@@ -91,6 +102,23 @@ class OpcDevice implements Runnable {
     return true;
   }
 
+  void dispose()
+  {
+    // Destroy the socket. Called internally when we've disconnected.
+    // (Thread continues to run)
+    if (output != null) {
+      println("Disconnected from OPC server");
+    }
+    //socket = null;
+    try {
+      if (socket != null) socket.close();
+    }
+    catch (IOException e) {
+      e.printStackTrace();
+    }
+
+    output = pending = null;
+  }
 
   int panelw = 16;
   int panelh = 32;
@@ -194,14 +222,26 @@ class OpcDevice implements Runnable {
       packetData[ledAddress + 2] = (byte)pixel;
       ledAddress += 3;
     }
-    
+
     //canrun = true;
+    writePixels();
   }
 
   void writePixelsThreaded()
   {
     try {
+      //ByteBuffer buf = ByteBuffer.allocate(packetData.length);
+      //buf.clear();
+      //buf.put(packetData);
+      //buf.flip();
+      //while (buf.hasRemaining()) {
+      //  socket.write(buf);
+      //}
+
+      //println(buf.hasRemaining());
+
       output.write(packetData);
+      output.flush();
     } 
     catch (Exception e) {
       dispose();
@@ -211,18 +251,5 @@ class OpcDevice implements Runnable {
   String writePixels() {
     canrun = true;
     return "" + (millis() - pmillis) + '\t';
-  }
-
-
-
-  void dispose()
-  {
-    // Destroy the socket. Called internally when we've disconnected.
-    // (Thread continues to run)
-    if (output != null) {
-      println("Disconnected from OPC server");
-    }
-    socket = null;
-    output = pending = null;
   }
 }

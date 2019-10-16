@@ -26,6 +26,7 @@ int mode = MOVIE;
 
 
 // routeradmin violeta:notabigdeal
+// wifi violeta:18694888
 
 // opc en python
 // https://www.issackelly.com/blog/2014/07/28/snow-white-2
@@ -34,6 +35,8 @@ int mode = MOVIE;
 // usar threads para cada socket // https://stackoverflow.com/questions/544924/maximum-size-of-data-that-can-be-fetched-from-a-client-socket-using-socketchanne
 //https://stackoverflow.com/questions/34379504/significance-of-message-size-on-rtt-simple-java-server-client-socket-program
 
+
+// 1536*12*14/1024 = 252
 void setup()
 {
   size(320, 128);
@@ -64,12 +67,13 @@ void setup()
   opc.addDevice("dsp_13.local").ledGrid(5, 1, 16, 32);
   opc.addDevice("dsp_14.local").ledGrid(6, 1, 16, 32);
 
+  opc.addDevice("dsp_16.local").ledGrid(6, 1, 16, 32);
   opc.start();
 
   movie = new Movie(this, "china.mp4");
   movie.loop();
   movie.volume(0.0);
-  frameRate(15);
+  frameRate(20);
 }
 
 
@@ -130,6 +134,7 @@ private class Interceptor extends PrintStream
   {
     super(out, true);
     errors = createWriter("./logs/log_"+date.getTime()+".txt");
+    //errors = createWriter("log_"+date.getTime()+".txt");
   }
 
   @Override

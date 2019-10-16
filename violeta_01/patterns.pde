@@ -31,40 +31,40 @@ void colorTestPattern(){
   }
 }
 
-ColorBar a = new ColorBar(100);
+//ColorBar a = new ColorBar(100);
 
-void colorful(){
-  a.render();
+//void colorful(){
+//  a.render();
     
 
-}
+//}
 
 
-class ColorBar{
+//class ColorBar{
 
 
-  int cols[] = new int[width];
-  int height = 100;
-  int newCol = 0;
+//  int cols[] = new int[width];
+//  int height = 100;
+//  int newCol = 0;
   
-  ColorBar (int height){
-    this.height = height;
-    for(int col: cols) col = 0;    
-  }
+//  ColorBar (int height){
+//    this.height = height;
+//    for(int col: cols) col = 0;    
+//  }
   
-  void render(){
-    for(int col = 0; col < cols.length - 1 ; col++){
-      cols[col] = cols[col+1];
-    }
+//  void render(){
+//    for(int col = 0; col < cols.length - 1 ; col++){
+//      cols[col] = cols[col+1];
+//    }
     
-    cols[cols.length - 1] = newCol;
+//    cols[cols.length - 1] = newCol;
     
-    for(int col: cols) {
-      stroke(col);
-      line(0,0,0, height);
-    }
-  }
+//    for(int col: cols) {
+//      stroke(col);
+//      line(0,0,0, height);
+//    }
+//  }
   
   
   
-}
+//}
