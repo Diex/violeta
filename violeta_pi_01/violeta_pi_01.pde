@@ -54,34 +54,36 @@ void setup()
   opc = new ESPOPC(this);
 
 
-  opc.addDevice("dsp_01.local").ledGrid(0, 0, 16, 32);
-  opc.addDevice("dsp_02.local").ledGrid(1, 0, 16, 32);
-  opc.addDevice("dsp_03.local").ledGrid(2, 0, 16, 32);
-  opc.addDevice("dsp_04.local").ledGrid(3, 0, 16, 32);
-  opc.addDevice("dsp_05.local").ledGrid(4, 0, 16, 32);
-  opc.addDevice("dsp_06.local").ledGrid(5, 0, 16, 32);
-  opc.addDevice("dsp_07.local").ledGrid(6, 0, 16, 32);
-  opc.addDevice("dsp_08.local").ledGrid(7, 0, 16, 32);
-  opc.addDevice("dsp_09.local").ledGrid(8, 0, 16, 32);
-  opc.addDevice("dsp_10.local").ledGrid(9, 0, 16, 32);
+  opc.addDevice("dsp_01.local").ledGrid(0, 0, 32, 64);
+  opc.addDevice("dsp_02.local").ledGrid(1, 0, 32, 64);
+  
+  opc.addDevice("dsp_03.local").ledGrid(2, 0, 32, 64);
+  opc.addDevice("dsp_04.local").ledGrid(3, 0, 32, 64);
+  opc.addDevice("dsp_05.local").ledGrid(4, 0, 32, 64);
+  opc.addDevice("dsp_06.local").ledGrid(5, 0, 32, 64);
+  opc.addDevice("dsp_07.local").ledGrid(6, 0, 32, 64);
+  opc.addDevice("dsp_08.local").ledGrid(7, 0, 32, 64);
+  
+  opc.addDevice("dsp_09.local").ledGrid(8, 0, 32, 64);
+  opc.addDevice("dsp_10.local").ledGrid(9, 0, 32, 64);
 
-  opc.addDevice("dsp_11.local").ledGrid(3, 1, 16, 32);
-  opc.addDevice("dsp_12.local").ledGrid(4, 1, 16, 32);
-  opc.addDevice("dsp_13.local").ledGrid(5, 1, 16, 32);
-  opc.addDevice("dsp_14.local").ledGrid(6, 1, 16, 32);
-
-  opc.addDevice("dsp_16.local").ledGrid(6, 1, 16, 32);
+  opc.addDevice("dsp_11.local").ledGrid(3, 1, 32, 64);
+  opc.addDevice("dsp_12.local").ledGrid(4, 1, 32, 64);
+  opc.addDevice("dsp_13.local").ledGrid(5, 1, 32, 64);
+  opc.addDevice("dsp_14.local").ledGrid(6, 1, 32, 64);
+  opc.addDevice("dsp_15.local").ledGrid(6, 1, 32, 64);
+  opc.addDevice("dsp_16.local").ledGrid(6, 1, 32, 64);
+  
   opc.start();
   video = new VLCJVideo(this);
-  video.openMedia("china.mp4");
-  video.loop();
+  video.openMedia("Frutas_V4_H264.mov");
   video.play();
   frameRate(10);
 }
 
 
 int lastFrame = 0;
-
+int videoY = -96;
 void draw()
 {
 
@@ -93,17 +95,20 @@ void draw()
   background(0);
 
   switch(mode) {
-
+ 
   case MOVIE:
-    //if (movie.available()) {
-    //  movie.read();
-    //}
-    //image(movie, 0, 0, width, height);
-    
-  //  if (video.available()) {
-  //  video.read();
-  //}
-  image(video, 0, 0, width, height);
+ if(video.isPlaying()){
+   //println(video.time());
+   opc.breath = false;
+   lastFrame = millis();
+   image(video, 0, videoY, width, height*2);  
+ }else{
+   background(0);
+   opc.breath = true;
+   if(millis() - lastFrame > 5000) {     
+     video.play();     
+   }
+ }
     break;
 
   case COLOR_BARS:
@@ -112,7 +117,7 @@ void draw()
   }
 
   ndfilter(127);
-  lastFrame = millis();
+  
 }
 
 void ndfilter(int value) {
@@ -124,6 +129,11 @@ void ndfilter(int value) {
 void keyPressed() {
   if (key == ' ') {
     mode = mode == MOVIE ? COLOR_BARS : MOVIE;
+  }
+  
+  if(key == '+'){
+    videoY--;
+    println("video y : " + videoY);
   }
 }
 

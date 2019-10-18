@@ -1,0 +1,5 @@
+#!/bin/sh
+
+APPDIR=$(readlink -f "$0")
+APPDIR=$(dirname "$APPDIR")
+$APPDIR/java/bin/java -Djna.nosys=true -Djava.ext.dirs="$APPDIR/java/lib/ext" -Djava.library.path="$APPDIR:$APPDIR/lib" -cp "$APPDIR:$APPDIR/lib/jmdns.jar:$APPDIR/lib/violeta_pi_01.jar:$APPDIR/lib/core.jar:$APPDIR/lib/jogl-all.jar:$APPDIR/lib/gluegen-rt.jar:$APPDIR/lib/jogl-all-natives-linux-armv6hf.jar:$APPDIR/lib/gluegen-rt-natives-linux-armv6hf.jar:$APPDIR/lib/jna.jar:$APPDIR/lib/video.jar:$APPDIR/lib/gstreamer-java.jar:$APPDIR/lib/slf4j-simple-1.7.25.jar:$APPDIR/lib/slf4j-api-1.7.25.jar:$APPDIR/lib/VLCJVideo.jar:$APPDIR/lib/jna-platform-5.2.0.jar:$APPDIR/lib/jna-5.2.0.jar:$APPDIR/lib/vlcj-3.12.1.jar" violeta_pi_01 "$@"

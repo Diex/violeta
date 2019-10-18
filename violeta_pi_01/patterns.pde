@@ -17,7 +17,7 @@ void colorTestPattern(){
   
   if (millis() - ms > 100) {
       ms = millis();
-      counter ++;
+     // counter ++;
     }
 
   int barHeight = height/8;

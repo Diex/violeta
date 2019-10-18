@@ -13,7 +13,7 @@ import java.util.Map;
 public class ESPOPC 
 {
   PApplet parent;   
-
+  boolean breath = false;
   
   HashMap<String, OpcDevice> devices;
 
@@ -45,6 +45,7 @@ public class ESPOPC
   void draw()
   {
     parent.loadPixels();
+    if(breath) return;
     // primero proceso los pixeles.
     for (Map.Entry<String, OpcDevice> device : devices.entrySet()) {
       device.getValue().draw();
@@ -54,7 +55,7 @@ public class ESPOPC
     for (Map.Entry<String, OpcDevice> device : devices.entrySet()) {      
       rtts += device.getValue().writePixels();
     }
-    //println(rtts);
+    
   }
 
   
